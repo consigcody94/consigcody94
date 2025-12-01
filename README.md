@@ -1,208 +1,259 @@
 <div align="center">
 
-<!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=CODY%20CHURCHWELL&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Architect%20%7C%20Space%20Tech%20Engineer%20%7C%20Open%20Source%20Builder&descAlignY=55&descSize=18"/>
+<!-- ANIMATED HEADER WITH 3D EFFECT -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:0891b2&height=350&section=header&text=CODY%20CHURCHWELL&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━&descAlignY=52&descSize=15&descAlign=50"/>
 
-<!-- SOCIAL BADGES -->
-<p>
-<a href="https://github.com/consigcody94?tab=followers">
-    <img src="https://img.shields.io/github/followers/consigcody94?label=Followers&logo=GitHub&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-</a>
-<a href="https://github.com/consigcody94?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/consigcody94?label=Stars&logo=GitHub&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=consigcody94&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-<a href="mailto:contact@example.com">
-    <img src="https://img.shields.io/badge/Open_to_Work-Hire_Me-success?style=for-the-badge&logo=handshake&logoColor=white&labelColor=1c1917" />
-</a>
-</p>
+<!-- ANIMATED SUBTITLE -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=800&color=0891B2&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=45&lines=%E2%9A%A1+AI+SYSTEMS+ARCHITECT+%7C+SPACE+TECH+ENGINEER+%7C+OPEN+SOURCE+%E2%9A%A1" />
 
-<!-- TYPING SVG -->
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%9A%80+NASA+LunaRecycle+Challenge+Competitor;%F0%9F%A4%96+Building+AI+Systems+That+Ship+to+Production;%F0%9F%8C%99+Engineering+Solutions+for+Lunar+Habitats" alt="Typing SVG" />
-</a>
+<br/>
+
+<!-- ANIMATED STATUS BADGES -->
+<a href="https://github.com/consigcody94?tab=followers"><img src="https://custom-icon-badges.demolab.com/github/followers/consigcody94?color=0891b2&labelColor=0d1117&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+<a href="https://github.com/consigcody94?tab=repositories&sort=stargazers"><img src="https://custom-icon-badges.demolab.com/github/stars/consigcody94?color=0891b2&labelColor=0d1117&style=for-the-badge&logo=star&logoColor=white"/></a>
+<img src="https://custom-icon-badges.demolab.com/badge/Repos-64-0891b2?style=for-the-badge&labelColor=0d1117&logo=repo&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=consigcody94&style=for-the-badge&color=0891b2&labelColor=0d1117&label=VISITORS"/>
+<a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Status-OPEN_TO_WORK-success?style=for-the-badge&labelColor=0d1117&logo=rocket&logoColor=white"/></a>
+
+<br/><br/>
+
+<!-- ANIMATED WAVE DIVIDER -->
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
 
 </div>
+
+<!-- MATRIX-STYLE INTRO -->
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                              ║
+║   ██████╗ ██████╗ ██████╗ ██╗   ██╗     ██████╗██╗  ██╗██╗   ██╗██████╗  ██████╗██╗  ██╗    ║
+║  ██╔════╝██╔═══██╗██╔══██╗╚██╗ ██╔╝    ██╔════╝██║  ██║██║   ██║██╔══██╗██╔════╝██║  ██║    ║
+║  ██║     ██║   ██║██║  ██║ ╚████╔╝     ██║     ███████║██║   ██║██████╔╝██║     ███████║    ║
+║  ██║     ██║   ██║██║  ██║  ╚██╔╝      ██║     ██╔══██║██║   ██║██╔══██╗██║     ██╔══██║    ║
+║  ╚██████╗╚██████╔╝██████╔╝   ██║       ╚██████╗██║  ██║╚██████╔╝██║  ██║╚██████╗██║  ██║    ║
+║   ╚═════╝ ╚═════╝ ╚═════╝    ╚═╝        ╚═════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝    ║
+║                                                                                              ║
+║  ┌─────────────────────────────────────────────────────────────────────────────────────┐    ║
+║  │                         SYSTEM INITIALIZATION COMPLETE                               │    ║
+║  │  ════════════════════════════════════════════════════════════════════════════════   │    ║
+║  │                                                                                      │    ║
+║  │  > LOCATION.............. United States 🇺🇸                                          │    ║
+║  │  > STATUS................ Available for Opportunities                               │    ║
+║  │  > CLEARANCE............. Open Source Contributor                                   │    ║
+║  │  > MISSION............... NASA LunaRecycle Challenge                                │    ║
+║  │  > PRIZE_POOL............ $2,000,000                                                │    ║
+║  │  > DEADLINE.............. January 22, 2026                                          │    ║
+║  │  > SPECIALIZATION........ AI Systems | Digital Twins | Space Tech                   │    ║
+║  │                                                                                      │    ║
+║  │  [■■■■■■■■■■■■■■■■■■■■] SKILLS LOADED: 100%                                         │    ║
+║  │  [■■■■■■■■■■■■■■■■■■■■] PROJECTS ACTIVE: 64                                         │    ║
+║  │  [■■■■■■■■■■■■■■■■░░░░] NASA CHALLENGE: 85% COMPLETE                                │    ║
+║  │                                                                                      │    ║
+║  └─────────────────────────────────────────────────────────────────────────────────────┘    ║
+║                                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br/>
 
 <!-- SNAKE ANIMATION -->
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 </picture>
 </div>
 
 <br/>
 
-<!-- ABOUT SECTION -->
+<!-- ABOUT ME SECTION -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" height="30" />
-<b>CURRENTLY BUILDING</b>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" height="30" />
+<table>
+<tr>
+<td>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="35" height="35" /> &nbsp; WHO AM I
+
+</td>
+</tr>
+</table>
 </div>
 
-```js
-// ~/projects/artemis-r/status.ts
+```typescript
+// @/core/engineer.config.ts
 
-interface Engineer {
-    name: string;
-    title: string;
-    location: string;
-    currentMission: Mission;
-    techStack: TechStack;
-    available: boolean;
-}
+import { Engineer, Mission, TechStack, Availability } from '@types/career';
 
-interface Mission {
-    name: string;
-    organization: string;
-    prize: string;
-    deadline: string;
-    status: "IN_PROGRESS" | "SUBMITTED" | "WINNER";
-    metrics: {
-        massRecovery: string;
-        energyBalance: string;
-        testsPassing: number;
-        linesOfCode: number;
-    };
-}
-
-const cody: Engineer = {
+const engineer: Engineer = {
+  identity: {
     name: "Cody Churchwell",
+    handle: "@consigcody94",
     title: "AI Systems Architect",
-    location: "United States 🇺🇸",
-    available: true,  // <-- HIRE ME
+    location: { country: "United States", timezone: "UTC-6", remote: true },
+    languages: ["English (Native)"],
+  },
 
-    currentMission: {
-        name: "ARTEMIS-R",
-        organization: "NASA",
-        prize: "$2,000,000",
-        deadline: "January 22, 2026",
-        status: "IN_PROGRESS",
-        metrics: {
-            massRecovery: "90%+",
-            energyBalance: "NET POSITIVE",
-            testsPassing: 109,
-            linesOfCode: 5693
-        }
-    },
+  status: {
+    available: true,
+    seeking: ["Full-time", "Contract", "Technical Co-founder"],
+    interests: ["AI/ML", "Space Tech", "Developer Tools", "Open Source"],
+  },
 
-    techStack: {
-        languages: ["Python", "TypeScript", "Rust", "C++", "Go"],
-        ai_ml: ["Claude API", "LangChain", "PyTorch", "TensorFlow"],
-        infrastructure: ["AWS", "GCP", "Kubernetes", "Terraform"],
-        databases: ["PostgreSQL", "Redis", "MongoDB", "Pinecone"],
-        specialties: [
-            "Digital Twin Systems",
-            "Real-time Control Systems",
-            "MCP Protocol Development",
-            "Physics Simulation"
-        ]
+  currentMission: {
+    name: "ARTEMIS-R",
+    organization: "NASA LunaRecycle Challenge",
+    description: "Lunar waste recycling digital twin system",
+    prize: "$2,000,000",
+    deadline: "2026-01-22",
+    progress: 85,
+    metrics: {
+      massRecoveryRate: "90%+",
+      energyBalance: "NET POSITIVE (+44 kWh/week)",
+      pvdfSafety: "Zero HF emissions",
+      testCoverage: "109 tests passing",
+      codebase: "5,693 lines"
     }
+  },
+
+  expertise: {
+    primary: [
+      "Digital Twin Architecture",
+      "Real-time Control Systems",
+      "Physics Simulation Engines",
+      "AI/ML Pipeline Design",
+      "MCP Protocol Development"
+    ],
+    domains: [
+      "Aerospace & Space Technology",
+      "Industrial Automation",
+      "Developer Tooling",
+      "Security Research"
+    ]
+  },
+
+  philosophy: `
+    I build systems that bridge the gap between theoretical AI
+    and production-grade solutions. Currently competing for
+    NASA's $2M prize to help establish sustainable lunar habitats.
+  `
 };
 
-export default cody;
+export default engineer;
 ```
 
 <br/>
 
-<!-- FEATURED PROJECT - HERO SECTION -->
+<!-- NASA PROJECT HERO SECTION -->
+<div align="center">
+<table>
+<tr>
+<td>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" /> &nbsp; FLAGSHIP PROJECT: NASA LUNARECYCLE CHALLENGE
+
+</td>
+</tr>
+</table>
+</div>
+
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" /> FLAGSHIP PROJECT <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" />
-
 <a href="https://github.com/consigcody94/lunarecycle-challenge">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=consigcody94&repo=lunarecycle-challenge&theme=react&bg_color=0D1117&border_color=0891b2&border_radius=15&show_owner=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=consigcody94&repo=lunarecycle-challenge&theme=react&bg_color=0d1117&border_color=0891b2&border_radius=20&show_owner=true&title_color=0891b2&icon_color=0891b2" width="450"/>
 </a>
 
 <br/><br/>
 
+<!-- SYSTEM ARCHITECTURE DIAGRAM -->
 <table>
 <tr>
 <td>
 
 ```
-    🌙 N A S A   L U N A R E C Y C L E   C H A L L E N G E 🌙
-    ══════════════════════════════════════════════════════════
-
-         ┌─────────────────────────────────────────────┐
-         │                                             │
-         │     █████╗ ██████╗ ████████╗███████╗       │
-         │    ██╔══██╗██╔══██╗╚══██╔══╝██╔════╝       │
-         │    ███████║██████╔╝   ██║   █████╗         │
-         │    ██╔══██║██╔══██╗   ██║   ██╔══╝         │
-         │    ██║  ██║██║  ██║   ██║   ███████╗       │
-         │    ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝       │
-         │                                             │
-         │    ███╗   ███╗██╗███████╗    ██████╗       │
-         │    ████╗ ████║██║██╔════╝    ██╔══██╗      │
-         │    ██╔████╔██║██║███████╗    ██████╔╝      │
-         │    ██║╚██╔╝██║██║╚════██║    ██╔══██╗      │
-         │    ██║ ╚═╝ ██║██║███████║    ██║  ██║      │
-         │    ╚═╝     ╚═╝╚═╝╚══════╝    ╚═╝  ╚═╝      │
-         │                                             │
-         │    Advanced Recycling Technology for        │
-         │    Extraterrestrial Material Integration    │
-         │                                             │
-         └─────────────────────────────────────────────┘
-
-    SYSTEM ARCHITECTURE:
-    ════════════════════
-
-    ┌──────────┐     ┌──────────────────────────────────┐
-    │  WASTE   │────▶│         INPUT CLASSIFIER         │
-    │   IN     │     │   (AI Vision + Spectroscopy)     │
-    └──────────┘     └──────────────────────────────────┘
-                                    │
-              ┌─────────────────────┼─────────────────────┐
-              ▼                     ▼                     ▼
-    ┌──────────────────┐  ┌──────────────────┐  ┌──────────────────┐
-    │  TPR-200         │  │  MEX-300         │  │  MSH-400         │
-    │  ═══════════     │  │  ═══════════     │  │  ═══════════     │
-    │  Thermal         │  │  Melt            │  │  Mechanical      │
-    │  Processor       │  │  Extruder        │  │  Shredder        │
-    │  ─────────       │  │  ─────────       │  │  ─────────       │
-    │  • Pyrolysis     │  │  • Filament      │  │  • PVDF Safe     │
-    │  • 400°C         │  │  • 1.75mm        │  │  • Cold Process  │
-    │  • Solar Heated  │  │  • Multi-zone    │  │  • 5mm Screen    │
-    └────────┬─────────┘  └────────┬─────────┘  └────────┬─────────┘
-             │                     │                     │
-             └─────────────────────┼─────────────────────┘
-                                   ▼
-                     ┌──────────────────────────┐
-                     │       CPR-500            │
-                     │       ════════           │
-                     │    Composite Press       │
-                     │    ───────────────       │
-                     │    • Hydraulic 20MPa     │
-                     │    • 180°C Platens       │
-                     │    • Radiation Shield    │
-                     └────────────┬─────────────┘
-                                  │
-              ┌───────────────────┼───────────────────┐
-              ▼                   ▼                   ▼
-    ┌──────────────────┐ ┌──────────────────┐ ┌──────────────────┐
-    │   3D FILAMENT    │ │ SHIELDING TILES  │ │   SYNGAS FUEL    │
-    │   ════════════   │ │ ═══════════════  │ │   ══════════     │
-    │   For on-demand  │ │ GCR/SPE protect  │ │   Energy recovery│
-    │   manufacturing  │ │ with PVDF+char   │ │   +4.2 kWh/batch │
-    └──────────────────┘ └──────────────────┘ └──────────────────┘
-
-    PERFORMANCE METRICS:
-    ════════════════════
-    ┌─────────────────────────────────────────────────────────┐
-    │  METRIC                  │  VALUE        │  STATUS      │
-    ├─────────────────────────────────────────────────────────┤
-    │  Mass Recovery Rate      │  90%+         │  ██████████  │
-    │  Energy Balance          │  +44 kWh/wk   │  ██████████  │
-    │  PVDF Safety             │  0 ppm HF     │  ██████████  │
-    │  Automation Level        │  95%          │  █████████░  │
-    │  Test Coverage           │  109 tests    │  ██████████  │
-    │  Digital Twin Accuracy   │  98%          │  █████████░  │
-    └─────────────────────────────────────────────────────────┘
-
-    💰 PRIZE POOL: $2,000,000  |  📅 DEADLINE: Jan 22, 2026
+    ╔═══════════════════════════════════════════════════════════════════════════════════════╗
+    ║                                                                                       ║
+    ║      █████╗ ██████╗ ████████╗███████╗███╗   ███╗██╗███████╗    ██████╗               ║
+    ║     ██╔══██╗██╔══██╗╚══██╔══╝██╔════╝████╗ ████║██║██╔════╝    ██╔══██╗              ║
+    ║     ███████║██████╔╝   ██║   █████╗  ██╔████╔██║██║███████╗    ██████╔╝              ║
+    ║     ██╔══██║██╔══██╗   ██║   ██╔══╝  ██║╚██╔╝██║██║╚════██║    ██╔══██╗              ║
+    ║     ██║  ██║██║  ██║   ██║   ███████╗██║ ╚═╝ ██║██║███████║    ██║  ██║              ║
+    ║     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝     ╚═╝╚═╝╚══════╝    ╚═╝  ╚═╝              ║
+    ║                                                                                       ║
+    ║     Advanced Recycling Technology for Extraterrestrial Material Integration System   ║
+    ║                                                                                       ║
+    ╠═══════════════════════════════════════════════════════════════════════════════════════╣
+    ║                                                                                       ║
+    ║                              🛸 SYSTEM ARCHITECTURE 🛸                                ║
+    ║                                                                                       ║
+    ║     ┌─────────────┐                                                                   ║
+    ║     │   LUNAR     │      ┌─────────────────────────────────────────────────┐         ║
+    ║     │   WASTE     │─────▶│            IHA-100: INPUT HOPPER                │         ║
+    ║     │   STREAM    │      │     ┌─────────────────────────────────────┐     │         ║
+    ║     └─────────────┘      │     │   🤖 AI VISION + SPECTROSCOPY      │     │         ║
+    ║                          │     │   • Material Classification         │     │         ║
+    ║                          │     │   • Contamination Detection         │     │         ║
+    ║                          │     │   • Optimal Routing Decision        │     │         ║
+    ║                          │     └─────────────────────────────────────┘     │         ║
+    ║                          └───────────────────┬─────────────────────────────┘         ║
+    ║                                              │                                        ║
+    ║                    ┌─────────────────────────┼─────────────────────────┐             ║
+    ║                    │                         │                         │             ║
+    ║                    ▼                         ▼                         ▼             ║
+    ║     ┌──────────────────────┐  ┌──────────────────────┐  ┌──────────────────────┐    ║
+    ║     │      TPR-200         │  │      MEX-300         │  │      MSH-400         │    ║
+    ║     │  ══════════════════  │  │  ══════════════════  │  │  ══════════════════  │    ║
+    ║     │  THERMAL PROCESSOR   │  │   MELT EXTRUDER      │  │ MECHANICAL SHREDDER  │    ║
+    ║     │  ──────────────────  │  │  ──────────────────  │  │  ──────────────────  │    ║
+    ║     │  🔥 Pyrolysis 400°C  │  │  🔧 1.75mm Filament  │  │  ❄️ PVDF-SAFE Cold   │    ║
+    ║     │  ☀️ Solar Assisted   │  │  🌡️ 4-Zone Heating  │  │  🛡️ Zero HF Release  │    ║
+    ║     │  ⚡ Syngas Output    │  │  📊 Quality Control  │  │  🔄 5mm Screen       │    ║
+    ║     └──────────┬───────────┘  └──────────┬───────────┘  └──────────┬───────────┘    ║
+    ║                │                         │                         │                 ║
+    ║                └─────────────────────────┼─────────────────────────┘                 ║
+    ║                                          ▼                                           ║
+    ║                           ┌──────────────────────────┐                               ║
+    ║                           │        CPR-500           │                               ║
+    ║                           │  ════════════════════    │                               ║
+    ║                           │    COMPOSITE PRESS       │                               ║
+    ║                           │  ────────────────────    │                               ║
+    ║                           │  💪 20 MPa Hydraulic     │                               ║
+    ║                           │  🌡️ 180°C Platens       │                               ║
+    ║                           │  🛡️ Radiation Shielding │                               ║
+    ║                           └────────────┬─────────────┘                               ║
+    ║                                        │                                             ║
+    ║                  ┌─────────────────────┼─────────────────────┐                       ║
+    ║                  ▼                     ▼                     ▼                       ║
+    ║     ┌─────────────────────┐ ┌─────────────────────┐ ┌─────────────────────┐         ║
+    ║     │   🖨️ 3D FILAMENT   │ │ 🛡️ SHIELDING TILES │ │  ⚡ SYNGAS FUEL     │         ║
+    ║     │   ═══════════════  │ │ ═══════════════════ │ │  ══════════════     │         ║
+    ║     │   On-demand mfg    │ │ GCR/SPE Protection  │ │  +4.2 kWh/batch     │         ║
+    ║     │   for lunar base   │ │ PVDF+Char+Regolith  │ │  Energy recovery    │         ║
+    ║     └─────────────────────┘ └─────────────────────┘ └─────────────────────┘         ║
+    ║                                                                                       ║
+    ╠═══════════════════════════════════════════════════════════════════════════════════════╣
+    ║                                                                                       ║
+    ║     📊 PERFORMANCE DASHBOARD                                                          ║
+    ║     ═════════════════════════════════════════════════════════════════════════════    ║
+    ║                                                                                       ║
+    ║     ┌─────────────────────┬─────────────────┬────────────────────────────────────┐   ║
+    ║     │ METRIC              │ VALUE           │ STATUS                             │   ║
+    ║     ├─────────────────────┼─────────────────┼────────────────────────────────────┤   ║
+    ║     │ Mass Recovery       │ 90%+            │ [████████████████████] EXCELLENT   │   ║
+    ║     │ Energy Balance      │ +44 kWh/week    │ [████████████████████] NET POS     │   ║
+    ║     │ PVDF HF Emissions   │ 0.00 ppm        │ [████████████████████] ZERO        │   ║
+    ║     │ Automation Level    │ 95%             │ [███████████████████░] HIGH        │   ║
+    ║     │ Digital Twin Sync   │ 98%             │ [███████████████████░] EXCELLENT   │   ║
+    ║     │ Test Coverage       │ 109 tests       │ [████████████████████] 100% PASS   │   ║
+    ║     └─────────────────────┴─────────────────┴────────────────────────────────────┘   ║
+    ║                                                                                       ║
+    ║     💰 PRIZE: $2,000,000                              📅 DEADLINE: Jan 22, 2026      ║
+    ║                                                                                       ║
+    ╚═══════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 </td>
@@ -213,46 +264,54 @@ export default cody;
 
 <br/>
 
-<!-- PROJECT CARDS -->
+<!-- PROJECT PORTFOLIO -->
 <div align="center">
+<table>
+<tr>
+<td>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" alt="Projects" width="30" height="30" /> PROJECT PORTFOLIO <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" alt="Projects" width="30" height="30" />
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" alt="Files" width="35" height="35" /> &nbsp; PROJECT PORTFOLIO
 
-<br/>
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> AI & Automation
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="28" /> AI & DEVELOPER TOOLS
 
 <a href="https://github.com/consigcody94/mcp-server-suite">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=consigcody94&repo=mcp-server-suite&theme=react&bg_color=0D1117&border_color=30363d&border_radius=10" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=consigcody94&repo=mcp-server-suite&theme=react&bg_color=0d1117&border_color=30363d&border_radius=15&title_color=0891b2&icon_color=0891b2" />
 </a>
 
 <a href="https://github.com/consigcody94/ai-code-review-agent">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=consigcody94&repo=ai-code-review-agent&theme=react&bg_color=0D1117&border_color=30363d&border_radius=10" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=consigcody94&repo=ai-code-review-agent&theme=react&bg_color=0d1117&border_color=30363d&border_radius=15&title_color=0891b2&icon_color=0891b2" />
 </a>
 
 <a href="https://github.com/consigcody94/commit-craft">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=consigcody94&repo=commit-craft&theme=react&bg_color=0D1117&border_color=30363d&border_radius=10" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=consigcody94&repo=commit-craft&theme=react&bg_color=0d1117&border_color=30363d&border_radius=15&title_color=0891b2&icon_color=0891b2" />
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" alt="Security" width="25" height="25" /> Research & Security
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" alt="Key" width="28" /> RESEARCH & SECURITY
 
 <a href="https://github.com/consigcody94/claude-self-study">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=consigcody94&repo=claude-self-study&theme=react&bg_color=0D1117&border_color=30363d&border_radius=10" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=consigcody94&repo=claude-self-study&theme=react&bg_color=0d1117&border_color=30363d&border_radius=15&title_color=0891b2&icon_color=0891b2" />
 </a>
 
 <a href="https://github.com/consigcody94/stego-toolkit">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=consigcody94&repo=stego-toolkit&theme=react&bg_color=0D1117&border_color=30363d&border_radius=10" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=consigcody94&repo=stego-toolkit&theme=react&bg_color=0d1117&border_color=30363d&border_radius=15&title_color=0891b2&icon_color=0891b2" />
 </a>
 
 <a href="https://github.com/consigcody94/x402">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=consigcody94&repo=x402&theme=react&bg_color=0D1117&border_color=30363d&border_radius=10" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=consigcody94&repo=x402&theme=react&bg_color=0d1117&border_color=30363d&border_radius=15&title_color=0891b2&icon_color=0891b2" />
 </a>
 
 </td>
@@ -263,90 +322,111 @@ export default cody;
 
 <br/>
 
-<!-- TECH STACK -->
+<!-- TECH STACK SECTION -->
 <div align="center">
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" /> TECH STACK <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" />
-
-<br/>
-
 <table>
 <tr>
-<td valign="top" width="33%">
+<td>
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> Languages
-<br/>
-<img src="https://skillicons.dev/icons?i=python,typescript,rust,cpp,go,bash&perline=3" />
-
-</td>
-<td valign="top" width="33%">
-
-### <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="20"> AI & ML
-<br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=3" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-
-</td>
-<td valign="top" width="33%">
-
-### <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="20"> Cloud & DevOps
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,terraform,githubactions&perline=3" />
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="33%">
-
-### <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="20"> Databases
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb&perline=3" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-
-</td>
-<td valign="top" width="33%">
-
-### <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="20"> Frameworks
-<br/>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,nextjs,react&perline=4" />
-
-</td>
-<td valign="top" width="33%">
-
-### <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="20"> Tools
-<br/>
-<img src="https://skillicons.dev/icons?i=git,linux,vim,vscode&perline=4" />
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="35" height="35" /> &nbsp; TECHNOLOGY ARSENAL
 
 </td>
 </tr>
 </table>
+</div>
+
+<div align="center">
+
+<!-- LANGUAGES -->
+<details open>
+<summary><b>⚡ LANGUAGES & RUNTIMES</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=python,typescript,rust,cpp,go,bash,lua&perline=7&theme=dark" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/TypeScript-Expert-007ACC?style=flat-square&logo=typescript&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Rust-Advanced-000000?style=flat-square&logo=rust&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/C++-Advanced-00599C?style=flat-square&logo=cplusplus&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Go-Intermediate-00ADD8?style=flat-square&logo=go&logoColor=white&labelColor=0d1117"/>
+</details>
+
+<!-- AI/ML -->
+<details open>
+<summary><b>🧠 AI & MACHINE LEARNING</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=7&theme=dark" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Claude_API-Expert-191919?style=flat-square&logo=anthropic&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/LangChain-Advanced-1C3C3C?style=flat-square&logo=langchain&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/OpenAI-Advanced-412991?style=flat-square&logo=openai&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Hugging_Face-Intermediate-FFD21E?style=flat-square&logo=huggingface&logoColor=black&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/MCP_Protocol-Expert-0891b2?style=flat-square&logo=anthropic&logoColor=white&labelColor=0d1117"/>
+</details>
+
+<!-- CLOUD & DEVOPS -->
+<details open>
+<summary><b>☁️ CLOUD & INFRASTRUCTURE</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker,terraform,ansible,githubactions&perline=8&theme=dark" />
+<br/><br/>
+<img src="https://img.shields.io/badge/AWS-Expert-232F3E?style=flat-square&logo=amazon-aws&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Kubernetes-Advanced-326CE5?style=flat-square&logo=kubernetes&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Terraform-Advanced-7B42BC?style=flat-square&logo=terraform&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Docker-Expert-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0d1117"/>
+</details>
+
+<!-- DATABASES -->
+<details open>
+<summary><b>🗄️ DATA & DATABASES</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql,sqlite,graphql&perline=6&theme=dark" />
+<br/><br/>
+<img src="https://img.shields.io/badge/PostgreSQL-Expert-316192?style=flat-square&logo=postgresql&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Redis-Advanced-DC382D?style=flat-square&logo=redis&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Pinecone-Advanced-000000?style=flat-square&logo=pinecone&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Supabase-Intermediate-3ECF8E?style=flat-square&logo=supabase&logoColor=white&labelColor=0d1117"/>
+</details>
+
+<!-- FRAMEWORKS -->
+<details open>
+<summary><b>🚀 FRAMEWORKS & TOOLS</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,nextjs,react,vue,svelte,electron&perline=7&theme=dark" />
+<br/><br/>
+<img src="https://img.shields.io/badge/FastAPI-Expert-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Next.js-Advanced-000000?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Node.js-Expert-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0d1117"/>
+</details>
 
 </div>
 
 <br/>
 
-<!-- GITHUB STATS -->
+<!-- GITHUB ANALYTICS -->
+<div align="center">
+<table>
+<tr>
+<td>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="35" height="35" /> &nbsp; GITHUB ANALYTICS
+
+</td>
+</tr>
+</table>
+</div>
+
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="30" height="30" /> GITHUB ANALYTICS <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="30" height="30" />
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=consigcody94&show_icons=true&theme=react&bg_color=0D1117&border_color=0891b2&border_radius=15&hide_border=false&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=consigcody94&theme=react&background=0D1117&border=0891b2&ring=0891b2&fire=DD2727&currStreakLabel=0891b2&border_radius=15" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=consigcody94&show_icons=true&theme=react&bg_color=0d1117&border_color=0891b2&border_radius=20&title_color=0891b2&icon_color=0891b2&text_color=c9d1d9&ring_color=0891b2&hide_border=false&count_private=true&include_all_commits=true"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=consigcody94&theme=react&background=0d1117&border=0891b2&ring=0891b2&fire=ff6b6b&currStreakLabel=0891b2&sideLabels=c9d1d9&dates=c9d1d9&border_radius=20"/>
 
 <br/><br/>
 
-<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=consigcody94&layout=donut&theme=react&bg_color=0D1117&border_color=0891b2&border_radius=15&hide_border=false&langs_count=8" />
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=consigcody94&layout=donut-vertical&theme=react&bg_color=0d1117&border_color=0891b2&border_radius=20&title_color=0891b2&text_color=c9d1d9&hide_border=false&langs_count=8"/>
 
 <br/><br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=consigcody94&bg_color=0d1117&color=0891b2&line=0891b2&point=ffffff&area_color=0891b2&area=true&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/consigcody94)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=consigcody94&bg_color=0d1117&color=0891b2&line=0891b2&point=ffffff&area_color=0891b2&area=true&hide_border=true&custom_title=📈%20Contribution%20Activity&radius=20)](https://github.com/consigcody94)
 
 </div>
 
@@ -354,10 +434,15 @@ export default cody;
 
 <!-- TROPHIES -->
 <div align="center">
+<table>
+<tr>
+<td>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="30" height="30" /> ACHIEVEMENTS <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="30" height="30" />
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="35" height="35" /> &nbsp; ACHIEVEMENTS
 
-<br/>
+</td>
+</tr>
+</table>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=consigcody94&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -367,46 +452,61 @@ export default cody;
 
 <!-- CONTACT SECTION -->
 <div align="center">
+<table>
+<tr>
+<td>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Email" width="30" height="30" /> LET'S CONNECT <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Email" width="30" height="30" />
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Email" width="35" height="35" /> &nbsp; LET'S BUILD SOMETHING AMAZING
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 <a href="https://github.com/consigcody94">
-    <img src="https://img.shields.io/badge/GitHub-consigcody94-0891b2?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/GitHub-@consigcody94-0891b2?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
 </a>
 
 <br/><br/>
 
 <table>
 <tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="50" height="50" />
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="60"/>
+<br/><br/>
+<b>💼 EMPLOYMENT</b>
 <br/>
-<b>Open for Work</b>
+<sub>Full-time & Contract</sub>
 <br/>
-Full-time & Contract
+<sub>Remote Worldwide</sub>
 </td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Idea" width="50" height="50" />
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="60"/>
+<br/><br/>
+<b>🎯 CONSULTING</b>
 <br/>
-<b>Consulting</b>
+<sub>AI/ML Architecture</sub>
 <br/>
-AI/ML Architecture
+<sub>System Design</sub>
 </td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands.png" alt="Clap" width="50" height="50" />
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands.png" width="60"/>
+<br/><br/>
+<b>🤝 COLLABORATION</b>
 <br/>
-<b>Collaboration</b>
+<sub>Open Source</sub>
 <br/>
-Open Source
+<sub>Research Projects</sub>
 </td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="50" height="50" />
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="60"/>
+<br/><br/>
+<b>🚀 STARTUPS</b>
 <br/>
-<b>Startups</b>
+<sub>Technical Co-founder</sub>
 <br/>
-Technical Co-founder
+<sub>CTO Advisory</sub>
 </td>
 </tr>
 </table>
@@ -418,27 +518,39 @@ Technical Co-founder
 <!-- FOOTER -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Galaxy" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" alt="Planet" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Full%20Moon.png" alt="Moon" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="30"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" width="30"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Full%20Moon.png" width="30"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="30"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="30"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Shooting%20Star.png" width="30"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun.png" width="30"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" width="30"/>
 
 <br/><br/>
 
 ```
-"Ad astra per aspera" — To the stars through difficulties
+╔════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                ║
+║   "We choose to go to the Moon in this decade and do the other things,        ║
+║    not because they are easy, but because they are hard."                      ║
+║                                                                                ║
+║                                              — President John F. Kennedy       ║
+║                                                                                ║
+╚════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0891b2&height=150&section=footer&animation=twinkling"/>
 
 </div>
 
-<!-- HIDDEN STATS FOR SEO -->
+<!-- SEO KEYWORDS (HIDDEN) -->
 <!--
-Keywords: NASA, LunaRecycle, Space Technology, AI Engineer, Machine Learning, Python Developer,
-TypeScript Developer, Digital Twin, MCP Protocol, Claude API, Open Source, Software Architect,
-Lunar Habitat, Waste Recycling, Aerospace, Full Stack Developer, DevOps, Cloud Architecture
+NASA LunaRecycle Challenge, AI Systems Architect, Space Technology Engineer, Digital Twin Developer,
+Machine Learning Engineer, Python Expert, TypeScript Developer, Rust Programmer, MCP Protocol,
+Claude API, LangChain Developer, Open Source Contributor, Full Stack Developer, DevOps Engineer,
+Cloud Architecture, Kubernetes Expert, AWS Solutions Architect, Space Tech, Lunar Habitat,
+Waste Recycling Technology, Physics Simulation, Real-time Control Systems, AI/ML Pipeline
 -->
