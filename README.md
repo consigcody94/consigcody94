@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=55&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=70&lines=CODY+CHURCHWELL" />
 
 <!-- ANIMATED ROLES -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=35&lines=%F0%9F%9A%80+AI+Systems+Architect+%7C+NASA+Challenger+%7C+Space+Tech+Engineer;%F0%9F%A7%A0+Digital+Twin+Developer+%7C+MCP+Protocol+Expert+%7C+Open+Source;%E2%9A%A1+Building+the+future+of+lunar+sustainability+%E2%9A%A1;%F0%9F%8E%AF+%242M+NASA+Competition+%7C+85%25+Complete+%7C+Jan+2026" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=35&lines=%F0%9F%94%AD+AI+Systems+Architect+%7C+Particle+Physics+%7C+MCP+Developer;%F0%9F%A7%A0+Digital+Twin+Developer+%7C+MCP+Protocol+Expert+%7C+Open+Source;%E2%9A%9B%EF%B8%8F+Building+AI+tools+for+Higgs+boson+phenomenology+%E2%9A%9B%EF%B8%8F;%F0%9F%8E%AF+Pythia+MCP+%7C+LHC+Data+Analysis+%7C+CERN+Open+Data" />
 
 <br/>
 
@@ -21,9 +21,9 @@
 <br/><br/>
 
 <!-- SOCIAL PROOF BADGES -->
-<img src="https://img.shields.io/badge/🏆_NASA_LUNARECYCLE-COMPETITOR-orange?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/💰_PRIZE_POOL-$2,000,000-gold?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/📅_DEADLINE-JAN_22,_2026-red?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/⚛️_PYTHIA_MCP-PARTICLE_PHYSICS-purple?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/🔬_BUILT_ON-LILITH_2-blue?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/📊_DATA-CERN_%2B_HEPDATA-cyan?style=for-the-badge&labelColor=0d1117"/>
 
 </div>
 
@@ -47,13 +47,13 @@
 +  ┌──────────────────────────────────────────────────────────────────────┐  +
 +  │  > INITIALIZING CODY.EXE...                                          │  +
 +  │  > LOADING NEURAL NETWORKS............... [████████████████] 100%    │  +
-+  │  > ESTABLISHING LUNAR UPLINK............. [████████████████] 100%    │  +
++  │  > CONNECTING TO CERN OPEN DATA.......... [████████████████] 100%    │  +
 +  │  > ACTIVATING AI SYSTEMS................. [████████████████] 100%    │  +
-+  │  > NASA CHALLENGE STATUS................. [████████████░░░░]  85%    │  +
++  │  > PYTHIA MCP SERVER STATUS.............. [████████████████] LIVE    │  +
 +  │                                                                       │  +
 !  │  ⚠️  ATTENTION: HIGH-VALUE TARGET IDENTIFIED                         │  !
-!  │      SPECIALIZATION: Digital Twins | AI/ML | Space Technology        │  !
-!  │      CURRENT MISSION: NASA LunaRecycle Challenge ($2M)               │  !
+!  │      SPECIALIZATION: Digital Twins | AI/ML | Particle Physics        │  !
+!  │      CURRENT MISSION: Pythia MCP - Higgs Phenomenology for AI        │  !
 +  │                                                                       │  +
 +  │  > READY FOR DEPLOYMENT                                              │  +
 +  └──────────────────────────────────────────────────────────────────────┘  +
@@ -91,7 +91,7 @@
 // @/core/engineer.config.ts — Execute with: npx ts-node engineer.config.ts
 
 interface Expertise { domain: string; level: 'MASTER' | 'EXPERT' | 'ADVANCED'; years: number; }
-interface Mission { name: string; prize: string; progress: number; deadline: string; }
+interface Mission { name: string; description: string; status: string; repo: string; }
 
 class Engineer {
   readonly name = "Cody Churchwell";
@@ -105,18 +105,18 @@ class Engineer {
   };
 
   readonly currentMission: Mission = {
-    name: "ARTEMIS-R: Advanced Recycling Technology for Extraterrestrial Material Integration",
-    prize: "$2,000,000",
-    progress: 85,  // NASA LunaRecycle Challenge Phase 2
-    deadline: "2026-01-22"
+    name: "Pythia MCP Server",
+    description: "AI-powered Higgs boson phenomenology using CERN/LHC data",
+    status: "LIVE",
+    repo: "github.com/consigcody94/pythia-mcp"
   };
 
   readonly achievements = {
-    massRecoveryRate: "90%+",
-    energyBalance: "NET POSITIVE (+44 kWh/week)",
-    pvdfSafety: "Zero HF emissions",  // Solved toxic gas problem
-    testCoverage: "109 tests passing",
-    digitalTwin: "Full physics simulation with AI/ML"
+    lilithIntegration: "Full Lilith-2 physics engine wrapper",
+    dataConnections: "HEPData + CERN Open Data APIs",
+    physicsModels: "2HDM, Singlet Extension, κ-framework",
+    toolCount: "20+ MCP tools for phenomenology",
+    attribution: "Forked & credited Sabine Kraml's Lilith-2"
   };
 
   readonly expertise: Expertise[] = [
@@ -124,12 +124,12 @@ class Engineer {
     { domain: "AI/ML Systems", level: "EXPERT", years: 6 },
     { domain: "Real-time Control Systems", level: "EXPERT", years: 4 },
     { domain: "MCP Protocol Development", level: "MASTER", years: 2 },
-    { domain: "Space Technology", level: "ADVANCED", years: 3 }
+    { domain: "Particle Physics Tools", level: "ADVANCED", years: 1 }
   ];
 
   philosophy(): string {
     return `Building production-grade AI systems that solve real problems.
-            Currently competing to revolutionize lunar waste recycling.
+            Currently bridging AI assistants with particle physics research.
             Let's build something that matters.`;
   }
 }
@@ -139,13 +139,13 @@ export default new Engineer();
 
 <br/>
 
-<!-- NASA FLAGSHIP PROJECT -->
+<!-- PYTHIA FLAGSHIP PROJECT -->
 <div align="center">
 <table>
 <tr>
 <td>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" /> &nbsp; FLAGSHIP: NASA LUNARECYCLE CHALLENGE
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Atom%20Symbol.png" alt="Atom" width="35" height="35" /> &nbsp; FLAGSHIP: PYTHIA MCP SERVER
 
 </td>
 </tr>
@@ -155,13 +155,13 @@ export default new Engineer();
 <div align="center">
 
 <!-- Animated Project Card -->
-<a href="https://github.com/consigcody94/lunarecycle-challenge">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=consigcody94&repo=lunarecycle-challenge&theme=react&bg_color=0d1117&border_color=0891b2&border_radius=20&show_owner=true&title_color=0891b2&icon_color=0891b2" width="500"/>
+<a href="https://github.com/consigcody94/pythia-mcp">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=consigcody94&repo=pythia-mcp&theme=react&bg_color=0d1117&border_color=0891b2&border_radius=20&show_owner=true&title_color=0891b2&icon_color=0891b2" width="500"/>
 </a>
 
 <br/><br/>
 
-<!-- MASSIVE ARCHITECTURE DIAGRAM -->
+<!-- ARCHITECTURE DIAGRAM -->
 <table>
 <tr>
 <td>
@@ -169,93 +169,65 @@ export default new Engineer();
 ```
     ╔═══════════════════════════════════════════════════════════════════════════════════════════════════════╗
     ║                                                                                                       ║
-    ║       █████╗ ██████╗ ████████╗███████╗███╗   ███╗██╗███████╗       ██████╗                            ║
-    ║      ██╔══██╗██╔══██╗╚══██╔══╝██╔════╝████╗ ████║██║██╔════╝       ██╔══██╗                           ║
-    ║      ███████║██████╔╝   ██║   █████╗  ██╔████╔██║██║███████╗ █████╗██████╔╝                           ║
-    ║      ██╔══██║██╔══██╗   ██║   ██╔══╝  ██║╚██╔╝██║██║╚════██║ ╚════╝██╔══██╗                           ║
-    ║      ██║  ██║██║  ██║   ██║   ███████╗██║ ╚═╝ ██║██║███████║       ██║  ██║                           ║
-    ║      ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝     ╚═╝╚═╝╚══════╝       ╚═╝  ╚═╝                           ║
+    ║      ██████╗ ██╗   ██╗████████╗██╗  ██╗██╗ █████╗       ███╗   ███╗ ██████╗██████╗                    ║
+    ║      ██╔══██╗╚██╗ ██╔╝╚══██╔══╝██║  ██║██║██╔══██╗      ████╗ ████║██╔════╝██╔══██╗                   ║
+    ║      ██████╔╝ ╚████╔╝    ██║   ███████║██║███████║█████╗██╔████╔██║██║     ██████╔╝                   ║
+    ║      ██╔═══╝   ╚██╔╝     ██║   ██╔══██║██║██╔══██║╚════╝██║╚██╔╝██║██║     ██╔═══╝                    ║
+    ║      ██║        ██║      ██║   ██║  ██║██║██║  ██║      ██║ ╚═╝ ██║╚██████╗██║                        ║
+    ║      ╚═╝        ╚═╝      ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝      ╚═╝     ╚═╝ ╚═════╝╚═╝                        ║
     ║                                                                                                       ║
-    ║      Advanced Recycling Technology for Extraterrestrial Material Integration System - R               ║
+    ║      An Oracle for Higgs Boson Phenomenology — Built on Lilith-2 by Sabine Kraml (LPSC Grenoble)     ║
     ║                                                                                                       ║
     ╠═══════════════════════════════════════════════════════════════════════════════════════════════════════╣
-    ║                                        🛸 SYSTEM ARCHITECTURE 🛸                                       ║
+    ║                                     ⚛️  SYSTEM ARCHITECTURE ⚛️                                        ║
     ╠═══════════════════════════════════════════════════════════════════════════════════════════════════════╣
     ║                                                                                                       ║
     ║   ┌─────────────────┐                                                                                 ║
-    ║   │ 🌙 LUNAR WASTE  │         ┌────────────────────────────────────────────────────────────┐          ║
-    ║   │    STREAM       │────────▶│               IHA-100: INTELLIGENT INPUT HOPPER            │          ║
+    ║   │ 🤖 AI ASSISTANT │         ┌────────────────────────────────────────────────────────────┐          ║
+    ║   │   (Claude, etc) │────────▶│                    PYTHIA MCP SERVER                       │          ║
     ║   │                 │         │  ┌──────────────────────────────────────────────────────┐  │          ║
-    ║   │ • Food Packaging│         │  │  🤖 AI VISION + NIR SPECTROSCOPY CLASSIFICATION      │  │          ║
-    ║   │ • Metalized Film│         │  │  • Real-time material identification (99.2% accuracy) │  │          ║
-    ║   │ • Cotton Textile│         │  │  • Contamination detection & rejection                │  │          ║
-    ║   │ • Synthetic Fab │         │  │  • Optimal processing route selection                 │  │          ║
-    ║   │ • PVDF Foam ⚠️  │         │  │  • Mass flow rate: 2 kg/hour continuous              │  │          ║
-    ║   │ • Paper/Hygiene │         │  └──────────────────────────────────────────────────────┘  │          ║
-    ║   └─────────────────┘         └───────────────────────────┬────────────────────────────────┘          ║
+    ║   │ "Analyze Higgs  │         │  │  🔧 20+ SPECIALIZED PHYSICS TOOLS                    │  │          ║
+    ║   │  couplings for  │         │  │  • compute_likelihood    • analyze_2hdm             │  │          ║
+    ║   │  this 2HDM..."  │         │  │  • scan_1d / scan_2d     • analyze_singlet          │  │          ║
+    ║   │                 │         │  │  • get_sm_predictions    • compute_pvalue           │  │          ║
+    ║   │                 │         │  │  • search_hepdata        • fetch_hepdata_record     │  │          ║
+    ║   └─────────────────┘         │  └──────────────────────────────────────────────────────┘  │          ║
+    ║                               └───────────────────────────┬────────────────────────────────┘          ║
     ║                                                           │                                           ║
     ║                           ┌───────────────────────────────┼───────────────────────────────┐           ║
     ║                           │                               │                               │           ║
     ║                           ▼                               ▼                               ▼           ║
     ║   ╔═══════════════════════════════╗ ╔═══════════════════════════════╗ ╔═══════════════════════════════╗
-    ║   ║        TPR-200                ║ ║        MEX-300                ║ ║        MSH-400                ║
-    ║   ║   THERMAL PROCESSOR           ║ ║     MELT EXTRUDER             ║ ║   MECHANICAL SHREDDER         ║
+    ║   ║        LILITH-2               ║ ║        HEPDATA API            ║ ║      CERN OPEN DATA           ║
+    ║   ║   Physics Engine              ║ ║    Live Measurements          ║ ║      Portal API               ║
     ║   ║   ════════════════════        ║ ║   ════════════════════        ║ ║   ════════════════════        ║
     ║   ║                               ║ ║                               ║ ║                               ║
-    ║   ║   🔥 Pyrolysis: 350-450°C     ║ ║   🔧 Output: 1.75mm filament  ║ ║   ❄️ PVDF-SAFE: Cold process  ║
-    ║   ║   ☀️ Solar-thermal assisted   ║ ║   🌡️ 4-zone precision heat   ║ ║   🛡️ ZERO HF GAS RELEASE     ║
-    ║   ║   ⚡ Syngas: 4.2 kWh/batch    ║ ║   📊 Real-time QC monitoring  ║ ║   🔄 5mm screen output        ║
-    ║   ║   💧 Water recovery: 85%      ║ ║   🎯 Diameter ±0.05mm         ║ ║   ⚡ 0.3 kW operation         ║
-    ║   ║   �ite Biochar output         ║ ║   ⚡ 0.8 kW efficient          ║ ║   🔇 <65 dB noise level       ║
+    ║   ║   📊 -2 log(L) computation    ║ ║   📈 Latest ATLAS results     ║ ║   💾 Collision datasets       ║
+    ║   ║   🔬 Reduced couplings (κ)    ║ ║   📈 Latest CMS results       ║ ║   📝 Analysis code            ║
+    ║   ║   📐 Signal strengths (μ)     ║ ║   📊 Signal strength data     ║ ║   🔍 Documentation            ║
+    ║   ║   🧪 Run 1 + Run 2 data       ║ ║   🔗 Correlation matrices     ║ ║   🌐 Open access              ║
     ║   ║                               ║ ║                               ║ ║                               ║
-    ║   ╚═══════════════╤═══════════════╝ ╚═══════════════╤═══════════════╝ ╚═══════════════╤═══════════════╝
-    ║                   │                                 │                                 │               ║
-    ║                   └─────────────────────────────────┼─────────────────────────────────┘               ║
-    ║                                                     ▼                                                 ║
-    ║                         ╔═══════════════════════════════════════════════════════╗                     ║
-    ║                         ║                     CPR-500                           ║                     ║
-    ║                         ║              COMPOSITE PRESS                          ║                     ║
-    ║                         ║              ════════════════════                     ║                     ║
-    ║                         ║                                                       ║                     ║
-    ║                         ║   💪 Hydraulic Force: 20 MPa (200 bar)               ║                     ║
-    ║                         ║   🌡️ Heated Platens: 150-180°C                       ║                     ║
-    ║                         ║   🛡️ Output: Radiation shielding tiles               ║                     ║
-    ║                         ║   📐 Tile Size: 200×200×15mm standard                ║                     ║
-    ║                         ║   🧪 Composition: PVDF + Biochar + Regolith          ║                     ║
-    ║                         ║                                                       ║                     ║
-    ║                         ╚═══════════════════════════╤═══════════════════════════╝                     ║
-    ║                                                     │                                                 ║
-    ║                     ┌───────────────────────────────┼───────────────────────────────┐                 ║
-    ║                     ▼                               ▼                               ▼                 ║
-    ║   ┌─────────────────────────────┐ ┌─────────────────────────────┐ ┌─────────────────────────────┐     ║
-    ║   │    🖨️ 3D PRINTER FILAMENT   │ │   🛡️ RADIATION SHIELDING    │ │      ⚡ SYNGAS FUEL          │     ║
-    ║   │   ═════════════════════════ │ │   ═════════════════════════ │ │   ═════════════════════════ │     ║
-    ║   │                             │ │                             │ │                             │     ║
-    ║   │   On-demand manufacturing   │ │   GCR & SPE protection      │ │   Energy recovery system    │     ║
-    ║   │   for lunar habitat repairs │ │   for lunar habitats        │ │   +4.2 kWh per batch        │     ║
-    ║   │   Multiple polymer types    │ │   PVDF+Char+Regolith mix    │ │   H2/CO combustible mix     │     ║
-    ║   │                             │ │                             │ │                             │     ║
-    ║   └─────────────────────────────┘ └─────────────────────────────┘ └─────────────────────────────┘     ║
+    ║   ╚═══════════════════════════════╝ ╚═══════════════════════════════╝ ╚═══════════════════════════════╝
     ║                                                                                                       ║
     ╠═══════════════════════════════════════════════════════════════════════════════════════════════════════╣
-    ║                                      📊 LIVE PERFORMANCE METRICS                                      ║
+    ║                                      📊 PHYSICS MODELS SUPPORTED                                      ║
     ╠═══════════════════════════════════════════════════════════════════════════════════════════════════════╣
     ║                                                                                                       ║
     ║   ┌─────────────────────────────┬──────────────────┬────────────────────────────────────────────────┐ ║
-    ║   │          METRIC             │      VALUE       │                    STATUS                      │ ║
+    ║   │          MODEL              │    PARAMETERS    │                 DESCRIPTION                    │ ║
     ║   ├─────────────────────────────┼──────────────────┼────────────────────────────────────────────────┤ ║
-    ║   │ Mass Recovery Rate          │       90%+       │ [████████████████████████████████████] ✓ PASS  │ ║
-    ║   │ Net Energy Balance          │  +44 kWh/week    │ [████████████████████████████████████] ✓ +NET  │ ║
-    ║   │ PVDF HF Emissions           │     0.00 ppm     │ [████████████████████████████████████] ✓ ZERO  │ ║
-    ║   │ Automation Level            │       95%        │ [██████████████████████████████████░░] ✓ HIGH  │ ║
-    ║   │ Digital Twin Sync           │       98%        │ [████████████████████████████████████] ✓ SYNC  │ ║
-    ║   │ Test Coverage               │    109 tests     │ [████████████████████████████████████] ✓ 100%  │ ║
-    ║   │ Code Quality                │   5,693 lines    │ [████████████████████████████████████] ✓ CLEAN │ ║
-    ║   │ Safety Interlocks           │   12 systems     │ [████████████████████████████████████] ✓ ARMED │ ║
+    ║   │ Standard Model              │    All κ = 1     │ Reference point for BSM comparisons           │ ║
+    ║   │ κ-Framework                 │  CV, CF, Ct, Cb  │ General reduced coupling parameterization     │ ║
+    ║   │ Two-Higgs-Doublet (Type-I)  │  tanβ, sin(β-α)  │ Both doublets couple to all fermions          │ ║
+    ║   │ Two-Higgs-Doublet (Type-II) │  tanβ, sin(β-α)  │ MSSM-like, up/down quark separation           │ ║
+    ║   │ 2HDM Lepton-specific        │  tanβ, sin(β-α)  │ Leptons couple to second doublet              │ ║
+    ║   │ 2HDM Flipped                │  tanβ, sin(β-α)  │ Down quarks + leptons to second doublet       │ ║
+    ║   │ Singlet Extension           │  mixing angle    │ SM + real scalar singlet mixing               │ ║
+    ║   │ Invisible Decays            │    BRinv         │ Higgs decays to dark matter candidates        │ ║
     ║   └─────────────────────────────┴──────────────────┴────────────────────────────────────────────────┘ ║
     ║                                                                                                       ║
-    ║        💰 PRIZE: $2,000,000 USD                                 📅 DEADLINE: January 22, 2026         ║
-    ║        🏆 PHASE: 2 of 2                                         ✅ PROGRESS: 85% COMPLETE             ║
+    ║   🔬 ORIGINAL LILITH-2: github.com/sabinekraml/Lilith-2  (Please cite!)                              ║
+    ║   🍴 OUR FORK: github.com/consigcody94/Lilith-2                                                       ║
     ║                                                                                                       ║
     ╚═══════════════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
@@ -289,16 +261,16 @@ export default new Engineer();
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="28" /> AI & DEVELOPER TOOLS
 
+<a href="https://github.com/consigcody94/pythia-mcp">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=consigcody94&repo=pythia-mcp&theme=react&bg_color=0d1117&border_color=30363d&border_radius=15&title_color=0891b2&icon_color=0891b2" />
+</a>
+
+<a href="https://github.com/consigcody94/Lilith-2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=consigcody94&repo=Lilith-2&theme=react&bg_color=0d1117&border_color=30363d&border_radius=15&title_color=0891b2&icon_color=0891b2" />
+</a>
+
 <a href="https://github.com/consigcody94/mcp-server-suite">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=consigcody94&repo=mcp-server-suite&theme=react&bg_color=0d1117&border_color=30363d&border_radius=15&title_color=0891b2&icon_color=0891b2" />
-</a>
-
-<a href="https://github.com/consigcody94/ai-code-review-agent">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=consigcody94&repo=ai-code-review-agent&theme=react&bg_color=0d1117&border_color=30363d&border_radius=15&title_color=0891b2&icon_color=0891b2" />
-</a>
-
-<a href="https://github.com/consigcody94/commit-craft">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=consigcody94&repo=commit-craft&theme=react&bg_color=0d1117&border_color=30363d&border_radius=15&title_color=0891b2&icon_color=0891b2" />
 </a>
 
 </td>
@@ -556,12 +528,11 @@ Electron      ██████████████████████
 ```
 ╔════════════════════════════════════════════════════════════════════════════════════════════════════╗
 ║                                                                                                    ║
-║   "We choose to go to the Moon in this decade and do the other things, not because they are easy, ║
-║    but because they are hard, because that goal will serve to organize and measure the best of    ║
-║    our energies and skills, because that challenge is one that we are willing to accept, one we   ║
-║    are unwilling to postpone, and one which we intend to win."                                    ║
+║   "The important thing is not to stop questioning. Curiosity has its own reason for existing.     ║
+║    One cannot help but be in awe when contemplating the mysteries of eternity, of life, of the    ║
+║    marvelous structure of reality."                                                               ║
 ║                                                                                                    ║
-║                                                           — President John F. Kennedy, 1962       ║
+║                                                                    — Albert Einstein              ║
 ║                                                                                                    ║
 ╚════════════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
@@ -574,11 +545,10 @@ Electron      ██████████████████████
 
 <!-- SEO & DISCOVERY KEYWORDS (HIDDEN) -->
 <!--
-Keywords: NASA LunaRecycle Challenge, AI Systems Architect, Space Technology Engineer, Digital Twin Developer,
-Machine Learning Engineer, Python Expert, TypeScript Developer, Rust Programmer, MCP Protocol Expert,
+Keywords: Pythia MCP Server, Higgs Boson, Particle Physics, CERN, LHC, Lilith-2, AI Systems Architect,
+Digital Twin Developer, Machine Learning Engineer, Python Expert, TypeScript Developer, MCP Protocol Expert,
 Claude API Developer, LangChain Expert, Open Source Contributor, Full Stack Developer, DevOps Engineer,
-Cloud Architecture AWS, Kubernetes Expert, Solutions Architect, Space Tech, Lunar Habitat Technology,
-Waste Recycling Technology, Physics Simulation Engine, Real-time Control Systems, AI/ML Pipeline Design,
+Cloud Architecture AWS, Kubernetes Expert, Solutions Architect, Physics Simulation, HEPData,
 Software Engineer, Backend Developer, Systems Engineer, Technical Lead, Senior Developer, Staff Engineer,
 Principal Engineer, CTO, Technical Co-founder, Startup Engineer, Remote Developer, USA Developer
 
@@ -589,7 +559,7 @@ Technologies: Python, TypeScript, JavaScript, Rust, C++, Go, Bash, React, Next.j
 Django, Flask, PyTorch, TensorFlow, LangChain, OpenAI, Anthropic Claude, AWS, GCP, Azure, Kubernetes,
 Docker, Terraform, PostgreSQL, Redis, MongoDB, GraphQL, REST API, Microservices, CI/CD, GitHub Actions
 
-Domains: Artificial Intelligence, Machine Learning, Natural Language Processing, Computer Vision,
-Space Technology, Aerospace, Digital Twins, Simulation, Physics Engines, Control Systems, Robotics,
+Domains: Artificial Intelligence, Machine Learning, Natural Language Processing, Particle Physics,
+High Energy Physics, Higgs Boson, ATLAS, CMS, Digital Twins, Simulation, Physics Engines,
 Developer Tools, DevOps, Infrastructure, Cloud Computing, Data Engineering, Backend Development
 -->
