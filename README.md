@@ -222,7 +222,7 @@ Government-oriented systems, federal training programs, and challenge submission
 | [repository-intelligence-platform](https://github.com/consigcody94/repository-intelligence-platform) | GitHub analytics and codebase insights at scale |
 | [content-similarity-finder](https://github.com/consigcody94/content-similarity-finder) | Duplicate detection using embeddings and semantic analysis |
 | [dahooter](https://github.com/consigcody94/dahooter) | Feature-rich softphone supporting FreePBX, RingCentral, 3CX |
-| [lilith](https://github.com/consigcody94/lilith) | ML-powered 90-day weather forecasting on consumer GPUs |
+| [L.I.L.I.T.H.](https://github.com/consigcody94/L.I.L.I.T.H.) | ML-powered 90-day weather forecasting on consumer GPUs |
 | [mcp-tplink-router](https://github.com/consigcody94/mcp-tplink-router) | TP-Link router automation via Playwright |
 
 </details>
