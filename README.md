@@ -1,12 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0891b2,100:0d1117&height=220&section=header&text=Cody%20Churchwell&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Computational%20Physics&descAlignY=55&descSize=16&descColor=8b949e"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0891b2,100:0d1117&height=220&section=header&text=Cody%20Churchwell&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <br/>
 
-[![Repos](https://img.shields.io/badge/64+_Repos-0d1117?style=flat-square&logo=github&logoColor=0891b2)](https://github.com/consigcody94?tab=repositories)
-[![Pythia MCP](https://img.shields.io/badge/Pythia_MCP-Live-22c55e?style=flat-square&logo=atom&logoColor=white)](https://github.com/consigcody94/pythia-mcp)
-[![Genesis Protocol](https://img.shields.io/badge/Genesis_Protocol-Active-f59e0b?style=flat-square&logo=codacy&logoColor=white)](https://github.com/consigcody94/genesis-protocol)
+[![Repos](https://img.shields.io/badge/64+_Repositories-0d1117?style=flat-square&logo=github&logoColor=0891b2)](https://github.com/consigcody94?tab=repositories)
 [![Open to Work](https://img.shields.io/badge/Open_to_Work-0891b2?style=flat-square&logo=statuspage&logoColor=white)](https://github.com/consigcody94)
 <img src="https://komarev.com/ghpvc/?username=consigcody94&style=flat-square&color=0891b2&labelColor=0d1117"/>
 
@@ -16,63 +14,152 @@
 
 ## About
 
-I build production-grade systems at the intersection of **AI infrastructure** and **scientific computing**. My current focus is connecting large language models to real physics tools through the **Model Context Protocol (MCP)** &mdash; giving AI assistants the ability to run Higgs boson likelihood calculations, query CERN databases, and perform parameter scans against LHC data.
+Software engineer working across **AI infrastructure**, **computational research**, **security**, and **federal systems**. I build tools that connect large language models to real-world data sources &mdash; physics simulations, government databases, OSINT platforms &mdash; through the Model Context Protocol. Outside of AI, I do independent computational research: reverse-engineering ancient texts, cryptanalysis, and large-scale document forensics.
 
 <br/>
 
-## Featured Projects
+## Research & Computational Archaeology
+
+Independent computational research applying information theory, NLP, and forensic analysis to unconventional problems.
 
 <div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Pythia MCP Server
-
-**Production-grade Higgs boson phenomenology for AI systems**
-
-20+ specialized physics tools built on [Lilith-2](https://github.com/sabinekraml/Lilith-2) (LPSC Grenoble). Enables Claude, GPT, and other AI assistants to compute likelihoods, scan parameter spaces, analyze 2HDM/singlet models, and query HEPData &mdash; all through MCP.
-
-<a href="https://github.com/consigcody94/pythia-mcp">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=consigcody94&repo=pythia-mcp&theme=react&bg_color=0d1117&border_color=30363d&border_radius=10&title_color=0891b2&icon_color=22c55e" width="100%"/>
+<a href="https://github.com/consigcody94/genesis-protocol">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=consigcody94&repo=genesis-protocol&theme=react&bg_color=0d1117&border_color=30363d&border_radius=10&title_color=0891b2&icon_color=22c55e" width="100%"/>
 </a>
+
+Base-22 transcoding of the Masoretic Text yields a 742 KB binary with entropy of 7.4995 bits/byte. Includes RISC-V disassembler, emulator, and [live dashboard](https://consigcody94.github.io/genesis-protocol/).
 
 </td>
 <td width="50%" valign="top">
 
-### The Genesis Protocol
-
-**Computational archaeology of the Masoretic Text**
-
-What happens when you treat the Hebrew Bible as a Base-22 instruction set? The extracted 742 KB binary artifact exhibits Shannon entropy of 7.4995 bits/byte &mdash; the range of compiled executables. Includes RISC-V disassembler, emulator, and live forensic dashboard.
-
-<a href="https://github.com/consigcody94/genesis-protocol">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=consigcody94&repo=genesis-protocol&theme=react&bg_color=0d1117&border_color=30363d&border_radius=10&title_color=0891b2&icon_color=22c55e" width="100%"/>
+<a href="https://github.com/consigcody94/OWL-DOJ-Epstein-Analysis">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=consigcody94&repo=OWL-DOJ-Epstein-Analysis&theme=react&bg_color=0d1117&border_color=30363d&border_radius=10&title_color=0891b2&icon_color=22c55e" width="100%"/>
 </a>
+
+Systematic legal analysis of 14,674 DOJ documents from United States v. Jeffrey Epstein using the OWL (Objective Witness & Legal) analysis framework.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Claude Self-Study
+<a href="https://github.com/consigcody94/beale-cipher-analysis">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=consigcody94&repo=beale-cipher-analysis&theme=react&bg_color=0d1117&border_color=30363d&border_radius=10&title_color=0891b2&icon_color=22c55e" width="100%"/>
+</a>
 
-**An AI's systematic investigation into its own architecture**
+Cryptanalytic attack on the Beale Ciphers. 41 source documents tested, 1.5M+ words analyzed, GPU-accelerated. Proves Ciphers 1 & 3 are likely unsolvable.
 
-34 documents across 10 sections &mdash; from transformer internals and Constitutional AI to the hard problem of consciousness. Written by Claude as a first-person research document. Covers GQA, Flash Attention, Scaling Monosemanticity, DPO, and modern attack vectors.
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/consigcody94/star-gauge">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=consigcody94&repo=star-gauge&theme=react&bg_color=0d1117&border_color=30363d&border_radius=10&title_color=0891b2&icon_color=22c55e" width="100%"/>
+</a>
+
+Complete English translation of Su Hui's 4th-century 841-character palindrome poem with interactive explorer. 7,958+ embedded poems discovered.
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+## AI Infrastructure & MCP
+
+Production systems connecting LLMs to real-world tools, data, and multi-agent workflows through the Model Context Protocol.
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/consigcody94/pythia-mcp">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=consigcody94&repo=pythia-mcp&theme=react&bg_color=0d1117&border_color=30363d&border_radius=10&title_color=0891b2&icon_color=22c55e" width="100%"/>
+</a>
+
+20+ physics tools wrapping [Lilith-2](https://github.com/sabinekraml/Lilith-2) for Higgs boson phenomenology. Real chi-square computation, 2HDM analysis, HEPData/CERN queries.
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/consigcody94/mcp-toolkit">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=consigcody94&repo=mcp-toolkit&theme=react&bg_color=0d1117&border_color=30363d&border_radius=10&title_color=0891b2&icon_color=22c55e" width="100%"/>
+</a>
+
+25+ MCP servers in a unified monorepo for Claude Desktop. One install, immediate access to dozens of tool integrations.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/consigcody94/sanhedrin">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=consigcody94&repo=sanhedrin&theme=react&bg_color=0d1117&border_color=30363d&border_radius=10&title_color=0891b2&icon_color=22c55e" width="100%"/>
+</a>
+
+A2A Protocol multi-agent coordination &mdash; orchestrate councils of AI agents for complex reasoning tasks.
+
+</td>
+<td width="50%" valign="top">
 
 <a href="https://github.com/consigcody94/claude-self-study">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=consigcody94&repo=claude-self-study&theme=react&bg_color=0d1117&border_color=30363d&border_radius=10&title_color=0891b2&icon_color=22c55e" width="100%"/>
 </a>
 
+34 documents across 10 sections &mdash; Claude's first-person investigation into transformer architecture, training, and emergent behavior.
+
 </td>
-<td width="50%" valign="top">
+</tr>
+</table>
+</div>
 
-### Other Work
+<details>
+<summary><b>More AI / Agent projects</b></summary>
+<br/>
 
-<a href="https://github.com/consigcody94/Lilith-2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=consigcody94&repo=Lilith-2&theme=react&bg_color=0d1117&border_color=30363d&border_radius=10&title_color=0891b2&icon_color=22c55e" width="100%"/>
+| Project | Description |
+|:--|:--|
+| [agent-bench](https://github.com/consigcody94/agent-bench) | Measure real AI coding productivity with benchmarks |
+| [ai-code-review-agent](https://github.com/consigcody94/ai-code-review-agent) | AI-powered PR analysis &mdash; catches bugs before they ship |
+| [ai-training-data-enricher](https://github.com/consigcody94/ai-training-data-enricher) | Enterprise LLM data enrichment with dedup, validation, GDPR compliance |
+| [crew-dev](https://github.com/consigcody94/crew-dev) | Multi-agent orchestration for software development |
+| [ghost-ui](https://github.com/consigcody94/ghost-ui) | Capture any website's UI and generate React/Vue/Svelte via AI vision |
+| [me-os](https://github.com/consigcody94/me-os) | Self-hosted personal AI that indexes your digital life locally |
+| [deja-claude](https://github.com/consigcody94/deja-claude) | Search and export Claude Code conversation history |
+| [ally](https://github.com/consigcody94/ally) | Personal AI assistant framework with memory and personality |
+| [transformersjs-guide](https://github.com/consigcody94/transformersjs-guide) | Complete guide to building WebAI apps with Transformers.js |
+
+</details>
+
+<br/>
+
+## Security & Cryptography
+
+Offensive security tools, cryptographic research, and puzzle solving.
+
+<div align="center">
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<a href="https://github.com/consigcody94/keyhuntM1CPU">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=consigcody94&repo=keyhuntM1CPU&theme=react&bg_color=0d1117&border_color=30363d&border_radius=10&title_color=0891b2&icon_color=22c55e" width="100%"/>
 </a>
+
+</td>
+<td width="33%" valign="top">
+
+<a href="https://github.com/consigcody94/bounty-buddy">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=consigcody94&repo=bounty-buddy&theme=react&bg_color=0d1117&border_color=30363d&border_radius=10&title_color=0891b2&icon_color=22c55e" width="100%"/>
+</a>
+
+</td>
+<td width="33%" valign="top">
 
 <a href="https://github.com/consigcody94/stego-toolkit">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=consigcody94&repo=stego-toolkit&theme=react&bg_color=0d1117&border_color=30363d&border_radius=10&title_color=0891b2&icon_color=22c55e" width="100%"/>
@@ -85,37 +172,95 @@ What happens when you treat the Hebrew Bible as a Base-22 instruction set? The e
 
 <br/>
 
+## Federal & Defense
+
+Government-oriented systems, federal training programs, and challenge submissions.
+
+| Project | Description |
+|:--|:--|
+| [FWG-LLM-Agentic-Training-Guide](https://github.com/consigcody94/FWG-LLM-Agentic-Training-Guide) | 27-module federal training program for LLM agentic systems |
+| [darpa-lift-challenge](https://github.com/consigcody94/darpa-lift-challenge) | DARPA Lift Challenge 2026 &mdash; physics simulation for heavy-lift VTOL drones (4:1 payload ratio) |
+| [lunarecycle-challenge](https://github.com/consigcody94/lunarecycle-challenge) | NASA LunaRecycle Challenge &mdash; lunar waste management simulation |
+| [metar-command-center](https://github.com/consigcody94/metar-command-center) | Real-time METAR weather monitoring for 2,400+ US ASOS stations |
+| [metar-intelligence-platform](https://github.com/consigcody94/metar-intelligence-platform) | Production METAR platform for government agencies |
+| [Aviation-Intel](https://github.com/consigcody94/Aviation-Intel) | Aviation intelligence tools |
+
+<br/>
+
+## Developer Tools & Infrastructure
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/consigcody94/backupforge">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=consigcody94&repo=backupforge&theme=react&bg_color=0d1117&border_color=30363d&border_radius=10&title_color=0891b2&icon_color=22c55e" width="100%"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/consigcody94/auto-architect">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=consigcody94&repo=auto-architect&theme=react&bg_color=0d1117&border_color=30363d&border_radius=10&title_color=0891b2&icon_color=22c55e" width="100%"/>
+</a>
+
+</td>
+</tr>
+</table>
+</div>
+
+<details>
+<summary><b>More tools</b></summary>
+<br/>
+
+| Project | Description |
+|:--|:--|
+| [api-rate-limit-orchestrator](https://github.com/consigcody94/api-rate-limit-orchestrator) | Intelligent API rate limit management &mdash; queue, throttle, optimize |
+| [schema-universal-converter](https://github.com/consigcody94/schema-universal-converter) | Convert between JSON, XML, YAML, Protobuf, and more |
+| [webhook-event-store](https://github.com/consigcody94/webhook-event-store) | Capture, replay, and debug incoming webhooks |
+| [repository-intelligence-platform](https://github.com/consigcody94/repository-intelligence-platform) | GitHub analytics and codebase insights at scale |
+| [content-similarity-finder](https://github.com/consigcody94/content-similarity-finder) | Duplicate detection using embeddings and semantic analysis |
+| [dahooter](https://github.com/consigcody94/dahooter) | Feature-rich softphone supporting FreePBX, RingCentral, 3CX |
+| [lilith](https://github.com/consigcody94/lilith) | ML-powered 90-day weather forecasting on consumer GPUs |
+| [mcp-tplink-router](https://github.com/consigcody94/mcp-tplink-router) | TP-Link router automation via Playwright |
+
+</details>
+
+<br/>
+
+## Other Work
+
+| Project | What it is |
+|:--|:--|
+| [golden-ratio-compendium](https://github.com/consigcody94/golden-ratio-compendium) | Comprehensive exploration of phi in math, nature, art, and technology |
+| [open-hunger-project](https://github.com/consigcody94/open-hunger-project) | Open-source initiative to end world hunger through emerging food tech |
+| [battleship-arena](https://github.com/consigcody94/battleship-arena) | AI models battle in naval warfare with 3D and isometric views |
+| [talawa](https://github.com/consigcody94/talawa) | Empowering Black youth through education (Canadian/Jamaican charity) |
+| [owl-and-stone-jewelry](https://github.com/consigcody94/owl-and-stone-jewelry) | Luxury jewelry e-commerce &mdash; Next.js 14, dark theme |
+| [servicenow-complete-guide](https://github.com/consigcody94/servicenow-complete-guide) | Full ServiceNow platform guide including Yokohama 2025 |
+| [proxmox-admin-guide](https://github.com/consigcody94/proxmox-admin-guide) | Proxmox VE administration best practices |
+| [cryptflow](https://github.com/consigcody94/cryptflow) | Cryptocurrency analysis and trading flow visualization |
+
+<br/>
+
 ## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,typescript,rust,cpp,go&perline=5&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,typescript,rust,cpp,go,bash&perline=6&theme=dark" />
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,nodejs,nextjs&perline=5&theme=dark" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,nodejs,nextjs,graphql&perline=6&theme=dark" />
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,postgres&perline=5&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker,terraform&perline=6&theme=dark" />
 
 <br/><br/>
 
-<details>
-<summary><b>Full breakdown</b></summary>
-<br/>
-
-| Domain | Technologies | Experience |
-|:--|:--|:--:|
-| **Languages** | Python, TypeScript, Rust, C++, Go, Bash | 4&ndash;8 years |
-| **AI/ML** | Claude API, MCP Protocol, LangChain, PyTorch, OpenAI | 2&ndash;6 years |
-| **Backend** | FastAPI, Node.js, GraphQL, REST, gRPC | 5+ years |
-| **Data** | PostgreSQL, Redis, MongoDB, Vector DBs, TimescaleDB | 4+ years |
-| **Cloud** | AWS, GCP, Azure | 5+ years |
-| **DevOps** | Kubernetes, Docker, Terraform, GitHub Actions | 4+ years |
-| **Physics** | Lilith-2, HEPData, ROOT, CERN Open Data | 1+ year |
-
-</details>
+<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,linux,git,github&perline=6&theme=dark" />
 
 </div>
 
@@ -146,13 +291,7 @@ What happens when you treat the Hebrew Bible as a Base-22 instruction set? The e
 
 | Full-time / Contract | AI Architecture | Open Source | Technical Co-founder |
 |:--:|:--:|:--:|:--:|
-| Remote worldwide | System design & ML ops | Research projects | Startup advisory |
-
-<br/>
-
----
-
-<sub>Building AI systems that solve real problems in science and engineering.</sub>
+| Remote worldwide | System design & ML ops | Research collaboration | Startup advisory |
 
 <br/>
 
