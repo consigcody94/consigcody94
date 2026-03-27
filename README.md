@@ -137,7 +137,7 @@ Cryptanalytic attack on the Beale Ciphers. **41 documents tested**, 1.5M+ words 
 </tr>
 </table>
 
-> Also: **[Sanskrit Projects](https://github.com/consigcody94/sanskrit-projects)** — Vedic cosmology simulator, Panini grammar compiler, Cymatics lab &nbsp;|&nbsp; **[Golden Ratio Compendium](https://github.com/consigcody94/golden-ratio-compendium)** — Comprehensive exploration of φ
+> Also: **[twin-trees](https://github.com/consigcody94/twin-trees)** — Interactive 3D Kabbalistic Tree of Life & Tree of Death (Three.js/WebGL) &nbsp;|&nbsp; **[Sanskrit Projects](https://github.com/consigcody94/sanskrit-projects)** — Vedic cosmology simulator, Panini grammar compiler &nbsp;|&nbsp; **[Golden Ratio Compendium](https://github.com/consigcody94/golden-ratio-compendium)** — Comprehensive exploration of φ
 
 *Cryptographic research: [Kangaroo](https://github.com/consigcody94/Kangaroo) — 2x faster Pollard Kangaroo for secp256k1 via Pollard 2025 + spectral mixing &nbsp;|&nbsp; [GLV Kangaroo Paper](https://github.com/consigcody94/glv-kangaroo-paper) — Cycle-free walks on GLV equivalence classes*
 
