@@ -217,7 +217,7 @@ SMARTVALUE ..... Smart home value intelligence with AI analysis
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=consigcody94&show_icons=true&bg_color=0a0e14&border_color=d4a017&border_radius=15&title_color=d4a017&icon_color=4ade80&text_color=c0c0c0&ring_color=d4a017&hide_border=false&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=consigcody94&show_icons=true&bg_color=0a0e14&border_color=d4a017&border_radius=15&title_color=d4a017&icon_color=4ade80&text_color=c0c0c0&ring_color=d4a017&hide_border=false&custom_title=GitHub%20Stats"/>
 <img width="49%" src="https://streak-stats.demolab.com/?user=consigcody94&background=0a0e14&border=d4a017&ring=d4a017&fire=d4a017&currStreakLabel=d4a017&sideLabels=c0c0c0&dates=6e7681&border_radius=15&currStreakNum=4ade80&sideNums=4ade80"/>
 
 </div>
