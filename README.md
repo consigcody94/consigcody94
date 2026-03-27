@@ -45,25 +45,22 @@ NOAA weather models as a federal contractor.
 
 ## Scientific Computing
 
-GPU acceleration for NOAA weather, ocean, and atmospheric models. Federal contractor under [FWG](https://github.com/consigcody94/FWG-LLM-Agentic-Training-Guide) / ASOS-SUAD program. RTX 3060 benchmarks. Honest negative results included.
+GPU acceleration for NOAA weather, ocean, and atmospheric models. Federal contractor under FWG / ASOS-SUAD program. RTX 3060 benchmarks. Honest negative results included.
 
-<div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/consigcody94/ww3-dia-gpu">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=consigcody94&repo=ww3-dia-gpu&bg_color=0a0e14&border_color=d4a017&border_radius=10&title_color=d4a017&icon_color=4ade80&text_color=c0c0c0" width="100%"/>
-</a>
+### [`ww3-dia-gpu`](https://github.com/consigcody94/ww3-dia-gpu)
+![CUDA](https://img.shields.io/badge/CUDA-0a0e14?style=flat-square&logo=nvidia&logoColor=4ade80)
 
-**16.8x speedup** — First GPU parallelization of WW3 Discrete Interaction Approximation. CUDA.
+**16.8x speedup** — First GPU parallelization of WW3 Discrete Interaction Approximation.
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/consigcody94/parallel-prefix-rt">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=consigcody94&repo=parallel-prefix-rt&bg_color=0a0e14&border_color=d4a017&border_radius=10&title_color=d4a017&icon_color=4ade80&text_color=c0c0c0" width="100%"/>
-</a>
+### [`parallel-prefix-rt`](https://github.com/consigcody94/parallel-prefix-rt)
+![CUDA](https://img.shields.io/badge/CUDA-0a0e14?style=flat-square&logo=nvidia&logoColor=4ade80)
 
 **3.10x verified** on rte-rrtmgp, 6/6 pass on CRTM, 109 GB/s GSI ensemble throughput.
 
@@ -72,25 +69,22 @@ GPU acceleration for NOAA weather, ocean, and atmospheric models. Federal contra
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/consigcody94/tensor-compressed-kdist">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=consigcody94&repo=tensor-compressed-kdist&bg_color=0a0e14&border_color=d4a017&border_radius=10&title_color=d4a017&icon_color=4ade80&text_color=c0c0c0" width="100%"/>
-</a>
+### [`tensor-compressed-kdist`](https://github.com/consigcody94/tensor-compressed-kdist)
+![Python](https://img.shields.io/badge/Python-0a0e14?style=flat-square&logo=python&logoColor=d4a017)
 
-**33x compression** of RRTMGP gas optics tables via Tucker decomposition. First application to atmospheric radiation.
+**33x compression** of RRTMGP gas optics via Tucker decomposition. First application to atmospheric radiation.
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/consigcody94/noaa-gpu-kernels">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=consigcody94&repo=noaa-gpu-kernels&bg_color=0a0e14&border_color=d4a017&border_radius=10&title_color=d4a017&icon_color=4ade80&text_color=c0c0c0" width="100%"/>
-</a>
+### [`noaa-gpu-kernels`](https://github.com/consigcody94/noaa-gpu-kernels)
+![CUDA](https://img.shields.io/badge/CUDA-0a0e14?style=flat-square&logo=nvidia&logoColor=4ade80)
 
 **16 verified kernels** across 10+ NOAA repos. Benchmarked on RTX 3060.
 
 </td>
 </tr>
 </table>
-</div>
 
 > Also: **[L.I.L.I.T.H.](https://github.com/consigcody94/L.I.L.I.T.H.)** — ML-powered 90-day weather forecasting on consumer GPUs &nbsp;|&nbsp; **[METAR Intelligence Platform](https://github.com/consigcody94/metar-intelligence-platform)** — Production-ready METAR platform for weather station networks
 
@@ -104,23 +98,20 @@ GPU acceleration for NOAA weather, ocean, and atmospheric models. Federal contra
 
 Information theory, NLP, and cryptanalysis applied to ancient texts, legal corpora, and unsolved ciphers.
 
-<div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/consigcody94/genesis-protocol">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=consigcody94&repo=genesis-protocol&bg_color=0a0e14&border_color=d4a017&border_radius=10&title_color=d4a017&icon_color=4ade80&text_color=c0c0c0" width="100%"/>
-</a>
+### [`genesis-protocol`](https://github.com/consigcody94/genesis-protocol)
+![Python](https://img.shields.io/badge/Python-0a0e14?style=flat-square&logo=python&logoColor=d4a017) ![Stars](https://img.shields.io/github/stars/consigcody94/genesis-protocol?style=flat-square&color=d4a017&labelColor=0a0e14)
 
-Base-22 transcoding of the Masoretic Text yields a **742 KB binary** with entropy of 7.4995 bits/byte. Includes RISC-V disassembler, emulator, and [live dashboard](https://consigcody94.github.io/genesis-protocol/).
+Base-22 transcoding of the Masoretic Text yields a **742 KB binary** with entropy of 7.4995 bits/byte. RISC-V disassembler, emulator, and [live dashboard](https://consigcody94.github.io/genesis-protocol/).
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/consigcody94/OWL-DOJ-Epstein-Analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=consigcody94&repo=OWL-DOJ-Epstein-Analysis&bg_color=0a0e14&border_color=d4a017&border_radius=10&title_color=d4a017&icon_color=4ade80&text_color=c0c0c0" width="100%"/>
-</a>
+### [`OWL-DOJ-Epstein-Analysis`](https://github.com/consigcody94/OWL-DOJ-Epstein-Analysis)
+![HTML](https://img.shields.io/badge/HTML-0a0e14?style=flat-square&logo=html5&logoColor=d4a017) ![Stars](https://img.shields.io/github/stars/consigcody94/OWL-DOJ-Epstein-Analysis?style=flat-square&color=d4a017&labelColor=0a0e14)
 
 Systematic legal analysis of **14,674 DOJ documents** from United States v. Jeffrey Epstein using the OWL analysis framework.
 
@@ -129,25 +120,22 @@ Systematic legal analysis of **14,674 DOJ documents** from United States v. Jeff
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/consigcody94/star-gauge">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=consigcody94&repo=star-gauge&bg_color=0a0e14&border_color=d4a017&border_radius=10&title_color=d4a017&icon_color=4ade80&text_color=c0c0c0" width="100%"/>
-</a>
+### [`star-gauge`](https://github.com/consigcody94/star-gauge)
+![HTML](https://img.shields.io/badge/HTML-0a0e14?style=flat-square&logo=html5&logoColor=d4a017) ![Stars](https://img.shields.io/github/stars/consigcody94/star-gauge?style=flat-square&color=d4a017&labelColor=0a0e14)
 
 Complete English translation of Su Hui's 4th-century 841-character palindrome poem. **7,958+ embedded poems** discovered.
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/consigcody94/beale-cipher-analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=consigcody94&repo=beale-cipher-analysis&bg_color=0a0e14&border_color=d4a017&border_radius=10&title_color=d4a017&icon_color=4ade80&text_color=c0c0c0" width="100%"/>
-</a>
+### [`beale-cipher-analysis`](https://github.com/consigcody94/beale-cipher-analysis)
+![HTML](https://img.shields.io/badge/HTML-0a0e14?style=flat-square&logo=html5&logoColor=d4a017)
 
 Cryptanalytic attack on the Beale Ciphers. **41 documents tested**, 1.5M+ words analyzed, GPU-accelerated. Proves Ciphers 1 & 3 are likely unsolvable.
 
 </td>
 </tr>
 </table>
-</div>
 
 > Also: **[Sanskrit Projects](https://github.com/consigcody94/sanskrit-projects)** — Vedic cosmology simulator, Panini grammar compiler, Cymatics lab &nbsp;|&nbsp; **[Golden Ratio Compendium](https://github.com/consigcody94/golden-ratio-compendium)** — Comprehensive exploration of φ
 
@@ -217,7 +205,6 @@ SMARTVALUE ..... Smart home value intelligence with AI analysis
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=consigcody94&show_icons=true&bg_color=0a0e14&border_color=d4a017&border_radius=15&title_color=d4a017&icon_color=4ade80&text_color=c0c0c0&ring_color=d4a017&hide_border=false&custom_title=GitHub%20Stats"/>
 <img width="49%" src="https://streak-stats.demolab.com/?user=consigcody94&background=0a0e14&border=d4a017&ring=d4a017&fire=d4a017&currStreakLabel=d4a017&sideLabels=c0c0c0&dates=6e7681&border_radius=15&currStreakNum=4ade80&sideNums=4ade80"/>
 
 </div>
