@@ -6,8 +6,8 @@
 
 I reverse-engineer complex systems — weather models, ancient texts, cryptographic puzzles,<br/>
 AI architectures, legal documents. Self-taught. No investors, no employees.<br/>
-Building 8 companies under **[Phosphor OS](https://phosphor-os.org)** while GPU-accelerating<br/>
-NOAA weather models as a federal contractor.
+Federal contractor by day. Independent GPU researcher and founder of<br/>
+8 companies under **[Phosphor OS](https://phosphor-os.org)** by night.
 
 <br/>
 
@@ -45,7 +45,7 @@ NOAA weather models as a federal contractor.
 
 ## Scientific Computing
 
-GPU acceleration for NOAA weather, ocean, and atmospheric models. Federal contractor under FWG / ASOS-SUAD program. RTX 3060 benchmarks. Honest negative results included.
+Independent research: GPU acceleration for NOAA weather, ocean, and atmospheric models. RTX 3060 benchmarks. Honest negative results included.
 
 <table>
 <tr>
