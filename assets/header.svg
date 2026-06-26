@@ -1,6 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 290" width="1000" height="290" role="img" aria-label="Cody Churchwell — Systems Thinker, Pattern Hunter">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 290" width="1000" height="290" role="img" aria-label="Cody Churchwell — Systems Thinker, Pattern Hunter, in the lineage of Jack Parsons">
   <defs>
-    <!-- panel background -->
     <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%"  stop-color="#0c1320"/>
       <stop offset="48%" stop-color="#0a0f18"/>
@@ -10,7 +9,6 @@
       <stop offset="0%"  stop-color="#11243a" stop-opacity="0.55"/>
       <stop offset="60%" stop-color="#0a0f18" stop-opacity="0"/>
     </radialGradient>
-    <!-- radar sweep wedge -->
     <linearGradient id="sweep" x1="0" y1="1" x2="0" y2="0">
       <stop offset="0%"   stop-color="#d4a017" stop-opacity="0"/>
       <stop offset="78%"  stop-color="#d4a017" stop-opacity="0.28"/>
@@ -20,7 +18,6 @@
       <stop offset="0%"  stop-color="#13202f"/>
       <stop offset="100%" stop-color="#080d15"/>
     </radialGradient>
-    <!-- phosphor glow -->
     <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
       <feGaussianBlur stdDeviation="2.4" result="b"/>
       <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
@@ -36,20 +33,30 @@
       <rect width="6" height="4" fill="none"/>
       <line x1="0" y1="0.5" x2="6" y2="0.5" stroke="#9fb4c9" stroke-width="0.5" opacity="0.05"/>
     </pattern>
+    <g id="star4"><path d="M0,-5 L1.1,-1.1 L5,0 L1.1,1.1 L0,5 L-1.1,1.1 L-5,0 L-1.1,-1.1 Z" fill="#d4a017"/></g>
   </defs>
 
-  <!-- base -->
   <rect width="1000" height="290" rx="12" fill="url(#bg)"/>
   <g clip-path="url(#panel)">
     <rect width="1000" height="290" fill="url(#vignette)"/>
 
-    <!-- faint console grid -->
+    <!-- console grid -->
     <g stroke="#d4a017" stroke-width="0.5" opacity="0.06">
       <line x1="0" y1="58"  x2="1000" y2="58"/>
       <line x1="0" y1="232" x2="1000" y2="232"/>
       <line x1="272" y1="0" x2="272" y2="290"/>
       <line x1="500" y1="0" x2="500" y2="290"/>
       <line x1="750" y1="0" x2="750" y2="290"/>
+    </g>
+
+    <!-- every man and every woman is a star -->
+    <g fill="#d4a017">
+      <use href="#star4" transform="translate(300,30) scale(0.5)"  opacity="0.5"><animate attributeName="opacity" values="0.2;0.7;0.2" dur="3.4s" repeatCount="indefinite"/></use>
+      <use href="#star4" transform="translate(470,44) scale(0.34)" opacity="0.4"><animate attributeName="opacity" values="0.6;0.15;0.6" dur="4.1s" repeatCount="indefinite"/></use>
+      <use href="#star4" transform="translate(620,26) scale(0.42)" opacity="0.5"><animate attributeName="opacity" values="0.25;0.65;0.25" dur="2.8s" repeatCount="indefinite"/></use>
+      <use href="#star4" transform="translate(700,210) scale(0.34)" opacity="0.4"><animate attributeName="opacity" values="0.55;0.2;0.55" dur="3.7s" repeatCount="indefinite"/></use>
+      <use href="#star4" transform="translate(258,212) scale(0.3)"  opacity="0.35"><animate attributeName="opacity" values="0.15;0.5;0.15" dur="4.6s" repeatCount="indefinite"/></use>
+      <use href="#star4" transform="translate(946,40) scale(0.34)" opacity="0.4"><animate attributeName="opacity" values="0.5;0.15;0.5" dur="3.1s" repeatCount="indefinite"/></use>
     </g>
 
     <!-- drifting scanlines -->
@@ -59,7 +66,6 @@
     </g>
 
     <!-- ============ LEFT: radar-owl scope cluster ============ -->
-    <!-- instrument frame + corner ticks -->
     <g stroke="#d4a017" fill="none" opacity="0.35" stroke-width="1.2">
       <path d="M64 50 h22 M64 50 v22"/>
       <path d="M250 50 h-22 M250 50 v22"/>
@@ -72,14 +78,11 @@
       <animate attributeName="opacity" values="1;0.2;1" dur="1.8s" repeatCount="indefinite"/>
     </circle>
 
-    <!-- ear tufts + brow -->
     <path d="M94 90 L88 66 L108 86 Z" fill="#d4a017" opacity="0.9"/>
     <path d="M226 90 L232 66 L212 86 Z" fill="#d4a017" opacity="0.9"/>
     <path d="M86 96 L120 80 L160 70 L200 80 L234 96" fill="none" stroke="#d4a017" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)"/>
 
-    <!-- EYES (radar scopes) -->
     <g>
-      <!-- left scope -->
       <circle cx="120" cy="124" r="34" fill="url(#eyeFill)" stroke="#d4a017" stroke-width="2" filter="url(#glow)"/>
       <g clip-path="url(#eyeL)">
         <g stroke="#d4a017" fill="none" opacity="0.32" stroke-width="0.8">
@@ -88,13 +91,11 @@
           <line x1="86" y1="124" x2="154" y2="124"/>
           <line x1="120" y1="90" x2="120" y2="158"/>
         </g>
-        <!-- sweep -->
         <g>
           <path d="M120 124 L104 92 A34 34 0 0 1 136 92 Z" fill="url(#sweep)"/>
           <line x1="120" y1="124" x2="120" y2="90" stroke="#f3cf63" stroke-width="1.4" opacity="0.85"/>
           <animateTransform attributeName="transform" type="rotate" from="0 120 124" to="360 120 124" dur="3.8s" repeatCount="indefinite"/>
         </g>
-        <!-- radar ping -->
         <circle cx="120" cy="124" r="3" fill="none" stroke="#4ade80" stroke-width="1.2">
           <animate attributeName="r" values="3;28" dur="3.8s" repeatCount="indefinite"/>
           <animate attributeName="opacity" values="0.8;0" dur="3.8s" repeatCount="indefinite"/>
@@ -102,7 +103,6 @@
       </g>
       <circle cx="120" cy="124" r="4.5" fill="#f3cf63" filter="url(#glow)"/>
 
-      <!-- right scope -->
       <circle cx="200" cy="124" r="34" fill="url(#eyeFill)" stroke="#d4a017" stroke-width="2" filter="url(#glow)"/>
       <g clip-path="url(#eyeR)">
         <g stroke="#d4a017" fill="none" opacity="0.32" stroke-width="0.8">
@@ -123,49 +123,67 @@
       </g>
       <circle cx="200" cy="124" r="4.5" fill="#f3cf63" filter="url(#glow)"/>
 
-      <!-- periodic blink -->
       <rect x="84" y="88" width="132" height="72" fill="#0a0f18">
         <animate attributeName="opacity" values="0;0;0;1;0;0;0;0;0;0;0;0" keyTimes="0;0.45;0.47;0.49;0.51;0.53;0.55;0.6;0.7;0.8;0.9;1" dur="6.5s" repeatCount="indefinite"/>
       </rect>
     </g>
 
-    <!-- beak -->
     <path d="M153 150 L160 164 L167 150 Z" fill="#d4a017" opacity="0.9"/>
-    <!-- face disc -->
     <path d="M92 150 Q160 196 228 150" fill="none" stroke="#d4a017" stroke-width="1" opacity="0.28"/>
 
     <!-- ============ RIGHT: type block ============ -->
-    <text x="300" y="92" fill="#4ade80" opacity="0.85" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="12.5" letter-spacing="5">SENTINEL OWL <tspan fill="#5b6573">//</tspan> PHOSPHOR OS</text>
+    <text x="300" y="92" fill="#4ade80" opacity="0.85" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="12.5" letter-spacing="5">SENTINEL OWL <tspan fill="#5b6573">//</tspan> PHOSPHOR OS <tspan fill="#5b6573">//</tspan> <tspan fill="#d4a017">93</tspan></text>
 
     <text x="298" y="150" fill="#d4a017" font-family="ui-monospace,'SF Mono','JetBrains Mono',Menlo,Consolas,monospace" font-size="45" font-weight="700" letter-spacing="3" filter="url(#glowSoft)">CODY CHURCHWELL
       <animate attributeName="opacity" values="0.92;1;0.92" dur="4s" repeatCount="indefinite"/>
     </text>
 
-    <text x="300" y="180" fill="#9fb0c4" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13.5" letter-spacing="3">systems thinker  <tspan fill="#d4a017">/</tspan>  pattern hunter  <tspan fill="#d4a017">/</tspan>  owl</text>
+    <text x="300" y="180" fill="#9fb0c4" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13.5" letter-spacing="3">rocketry <tspan fill="#d4a017">&amp;</tspan> ritual  <tspan fill="#d4a017">/</tspan>  two experimental sciences</text>
 
-    <!-- terminal status line -->
     <text x="300" y="216" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13.5" letter-spacing="0.5">
-      <tspan fill="#4ade80">&#8250; </tspan><tspan fill="#c0c8d4">reverse-engineering complex systems</tspan>
+      <tspan fill="#4ade80">&#8250; </tspan><tspan fill="#c0c8d4">do what thou wilt &#8212; the rest is engineering</tspan>
     </text>
-    <rect x="603" y="205" width="9" height="14" fill="#4ade80">
+    <rect x="679" y="205" width="9" height="14" fill="#4ade80">
       <animate attributeName="opacity" values="1;1;0;0" dur="1.05s" repeatCount="indefinite"/>
     </rect>
 
-    <!-- right telemetry readout -->
-    <line x1="772" y1="74" x2="772" y2="182" stroke="#d4a017" stroke-width="1" opacity="0.18"/>
-    <text x="792" y="90" fill="#4ade80" opacity="0.7" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="9" letter-spacing="3">TELEMETRY</text>
-    <g font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="11.5" letter-spacing="0.5">
-      <text x="792" y="118" fill="#7e8a9c">WW3·DIA</text>     <text x="934" y="118" text-anchor="end" fill="#d4a017">16.8&#215;</text>
-      <text x="792" y="140" fill="#7e8a9c">RRTMGP</text>      <text x="934" y="140" text-anchor="end" fill="#d4a017">33&#215;</text>
-      <text x="792" y="162" fill="#7e8a9c">GPU·KERNELS</text> <text x="934" y="162" text-anchor="end" fill="#4ade80">16</text>
+    <!-- ============ RIGHT: alchemical astrolabe (science + occult) ============ -->
+    <g transform="translate(858,126)">
+      <!-- tick ring via dashed circle -->
+      <circle r="52" fill="none" stroke="#d4a017" stroke-width="6" opacity="0.22" stroke-dasharray="1.4 12.2"/>
+      <circle r="56" fill="none" stroke="#d4a017" stroke-width="1" opacity="0.45"/>
+      <circle r="40" fill="none" stroke="#d4a017" stroke-width="0.8" opacity="0.22"/>
+      <!-- fixed index -->
+      <path d="M0,-58 l-4,-7 l8,0 Z" fill="#4ade80" opacity="0.85"/>
+      <!-- rotating interlaced hexagram + node-stars -->
+      <g filter="url(#glow)">
+        <path d="M0,-38 L32.9,19 L-32.9,19 Z M0,38 L-32.9,-19 L32.9,-19 Z" fill="none" stroke="#d4a017" stroke-width="1.4" opacity="0.9"/>
+        <g fill="#f3cf63">
+          <circle cx="0" cy="-38" r="1.7"/><circle cx="32.9" cy="19" r="1.7"/><circle cx="-32.9" cy="19" r="1.7"/>
+          <circle cx="0" cy="38" r="1.7"/><circle cx="-32.9" cy="-19" r="1.7"/><circle cx="32.9" cy="-19" r="1.7"/>
+        </g>
+        <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="44s" repeatCount="indefinite"/>
+      </g>
+      <!-- central star -->
+      <use href="#star4" transform="scale(1.15)" fill="#f3cf63" filter="url(#glow)"/>
+      <text x="0" y="76" text-anchor="middle" fill="#4ade80" opacity="0.6" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="8.5" letter-spacing="3">SOLVE&#183;COAGULA</text>
     </g>
 
-    <!-- baseline scan -->
-    <line x1="64" y1="256" x2="936" y2="256" stroke="#d4a017" stroke-width="0.7" opacity="0.22"/>
-    <circle cy="256" r="3" fill="#4ade80" filter="url(#glow)">
-      <animate attributeName="cx" values="64;936;64" keyTimes="0;0.5;1" dur="7s" repeatCount="indefinite"/>
+    <!-- baseline trajectory + ascending rocket -->
+    <line x1="64" y1="256" x2="936" y2="256" stroke="#d4a017" stroke-width="0.7" opacity="0.22" stroke-dasharray="2 5"/>
+    <g>
+      <g filter="url(#glow)">
+        <path d="M9,0 L1,-3 L-9,-3 L-9,3 L1,3 Z" fill="#d4a017"/>
+        <path d="M1,-3 L1,-7 L-5,-3 Z" fill="#d4a017" opacity="0.8"/>
+        <path d="M1,3 L1,7 L-5,3 Z" fill="#d4a017" opacity="0.8"/>
+        <circle cx="5" cy="0" r="1.4" fill="#0a0f18"/>
+        <path d="M-9,-2.2 L-19,0 L-9,2.2 Z" fill="#4ade80">
+          <animate attributeName="opacity" values="0.4;1;0.5;1;0.4" dur="0.35s" repeatCount="indefinite"/>
+        </path>
+      </g>
+      <animateMotion path="M64,256 L936,256" dur="7s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear"/>
       <animate attributeName="opacity" values="0;1;1;1;0" keyTimes="0;0.05;0.5;0.95;1" dur="7s" repeatCount="indefinite"/>
-    </circle>
+    </g>
   </g>
   <rect x="0.5" y="0.5" width="999" height="289" rx="12" fill="none" stroke="#d4a017" stroke-width="1" opacity="0.18"/>
 </svg>

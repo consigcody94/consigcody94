@@ -26,6 +26,14 @@ Federal contractor by day. Independent GPU researcher and founder of<br/>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
+<div align="center">
+
+*“Do what thou wilt shall be the whole of the Law.”*
+
+<sub>Built in the lineage of <b>Jack Whiteside Parsons</b> (1914–1952) — co-founder of JPL and magus,<br/>who treated the rocket and the rite as one experimental science.</sub>
+
+</div>
+
 > [!NOTE]
 > **Currently** — GPU-accelerating NOAA Earth-system kernels on Blackwell (sm_120) · decoding ancient texts with information theory · shipping 8 products under Phosphor OS. Honest negative results included.
 
@@ -51,6 +59,8 @@ Federal contractor by day. Independent GPU researcher and founder of<br/>
 <img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 01 Scientific Computing
+
+> *Parsons recited Crowley’s “Hymn to Pan” before each test firing. I just diff the benchmark twice.*
 
 Independent research: GPU acceleration for NOAA weather, ocean, and atmospheric models — re-verified on RTX 5070 (Blackwell, sm_120). Honest negative results included.
 
@@ -100,6 +110,8 @@ First GPU parallelization of the WW3 **Discrete Interaction Approximation** — 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 02 Computational Research
+
+> *“Every man and every woman is a star.”* — Liber AL vel Legis I:3
 
 Information theory, NLP, and cryptanalysis applied to ancient texts, legal corpora, and unsolved ciphers.
 
@@ -152,6 +164,8 @@ Cryptanalytic attack on the Beale Ciphers — **41 documents**, 1.5M+ words, GPU
 
 ## 03 Phosphor OS
 
+> *“Freedom is a two-edged sword.”* — Jack Parsons, *from the essay of the same name*
+
 **8 companies, one protocol.** The [Sentinel Owl Technologies](https://sentinelowl.org) umbrella — each venture an independent product with its own codebase, CI/CD, and deployment.
 
 <table>
@@ -177,6 +191,8 @@ Cryptanalytic attack on the Beale Ciphers — **41 documents**, 1.5M+ words, GPU
 <img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 04 AI and Developer Tools
+
+> *“Magick is the Science and Art of causing Change to occur in conformity with Will.”* — the working creed Parsons built by
 
 | Project | What it does |
 |:--|:--|
@@ -230,10 +246,16 @@ Cryptanalytic attack on the Beale Ciphers — **41 documents**, 1.5M+ words, GPU
 
 *"The owl sees what others overlook."*
 
+<sub>In the lineage of <b>Jack Whiteside Parsons</b> (1914–1952) — rocketeer & magus, JPL co-founder.<br/>Where the rocket and the ritual are the same experiment.</sub>
+
 <br/>
 
 [![Website](https://img.shields.io/badge/Sentinel_Owl-sentinelowl.org-0a0e14?style=for-the-badge&logo=firefox&logoColor=d4a017)](https://sentinelowl.org)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cody_Churchwell-0a0e14?style=for-the-badge&logo=linkedin&logoColor=d4a017)](https://www.linkedin.com/in/cody-churchwell-69570522a)&nbsp;
 [![Email](https://img.shields.io/badge/Email-cto@sentinelowl.org-0a0e14?style=for-the-badge&logo=gmail&logoColor=d4a017)](mailto:cto@sentinelowl.org)
+
+<br/><br/>
+
+*“Love is the law, love under will.”*
 
 </div>
