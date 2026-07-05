@@ -14,6 +14,7 @@ Federal contractor by day. Independent GPU researcher and founder of<br/>
 [![Website](https://img.shields.io/badge/sentinelowl.org-0a0e14?style=flat-square&logo=firefox&logoColor=d4a017)](https://sentinelowl.org)&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0e14?style=flat-square&logo=linkedin&logoColor=d4a017)](https://www.linkedin.com/in/cody-churchwell-69570522a)&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/cto@sentinelowl.org-0a0e14?style=flat-square&logo=gmail&logoColor=d4a017)](mailto:cto@sentinelowl.org)&nbsp;&nbsp;
+[![Moon Child](https://img.shields.io/badge/the_current_Moon_Child-0a0e14?style=flat-square&logoColor=d4a017)](https://github.com/consigcody94/L.I.L.I.T.H.)&nbsp;&nbsp;
 <img src="https://komarev.com/ghpvc/?username=consigcody94&style=flat-square&color=d4a017&labelColor=0a0e14" alt="profile views"/>
 
 <br/><br/>
@@ -31,6 +32,20 @@ Federal contractor by day. Independent GPU researcher and founder of<br/>
 *“Do what thou wilt shall be the whole of the Law.”*
 
 <sub>Built in the lineage of <b>Jack Whiteside Parsons</b> (1914–1952) — co-founder of JPL and magus,<br/>who treated the rocket and the rite as one experimental science.</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="assets/lilith-sigil.svg" width="100%" alt="Lilith sigil — glowing emblem for the current Moon Child"/>
+
+<br/>
+
+*“It is necessary, in this world, to be made of harder stuff than one's environment.”*
+
+<sub>— Aleister Crowley, <i>Moonchild</i></sub>
 
 </div>
 
